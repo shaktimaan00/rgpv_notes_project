@@ -1,0 +1,449 @@
+[
+    {
+      "year": 1,
+      "branch": "CSE",
+      "sem":[
+        {
+          "first":"1st Sem",
+          "second":"2nd Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-101", "subject_name": "Engineering Chemistry" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-102", "subject_name": "Mathematics-I" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-103", "subject_name": "English for Communication" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-104", "subject_name": "Basic Electrical & Electronics Engineering" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-105", "subject_name": "Engineering Graphics" },
+        {"content_id": 6, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-106", "subject_name": "Manufacturing Practices" }
+      ],
+      "subjects2": [
+        {"content_id": 7, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-201", "subject_name": "Engineering Physics" },
+        {"content_id": 8, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-202", "subject_name": "Mathematics-II" },
+        {"content_id": 9, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-203", "subject_name": "Basic Mechanical Engineering" },
+        {"content_id": 10, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-204", "subject_name": "Basic Civil Engineering and Mechanics" },
+        {"content_id": 11, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-205", "subject_name": "Basic Computer Engineering" },
+        {"content_id": 12, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-206", "subject_name": "Language Lab and Seminars" }
+      ]
+    },
+    {
+      "year": 1,
+      "branch": "ECE",
+      "sem":[
+        {
+          "first":"1st Sem",
+          "second":"2nd Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-101", "subject_name": "Engineering Chemistry" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-102", "subject_name": "Mathematics-I" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-103", "subject_name": "English for Communication" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-104", "subject_name": "Basic Electrical & Electronics Engineering" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-105", "subject_name": "Engineering Graphics" },
+        {"content_id": 6, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-106", "subject_name": "Manufacturing Practices" }
+      ],
+      "subjects2": [
+        {"content_id": 7, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-201", "subject_name": "Engineering Physics" },
+        {"content_id": 8, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-202", "subject_name": "Mathematics-II" },
+        {"content_id": 9, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-203", "subject_name": "Basic Mechanical Engineering" },
+        {"content_id": 10, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-204", "subject_name": "Basic Civil Engineering and Mechanics" },
+        {"content_id": 11, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-205", "subject_name": "Basic Computer Engineering" },
+        {"content_id": 12, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-206", "subject_name": "Language Lab and Seminars" }
+      ]
+    },
+    {
+      "year": 1,
+      "branch": "ME",
+      "sem":[
+        {
+          "first":"1st Sem",
+          "second":"2nd Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-101", "subject_name": "Engineering Chemistry" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-102", "subject_name": "Mathematics-I" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-103", "subject_name": "English for Communication" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-104", "subject_name": "Basic Electrical & Electronics Engineering" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-105", "subject_name": "Engineering Graphics" },
+        {"content_id": 6, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-106", "subject_name": "Manufacturing Practices" }
+      ],
+      "subjects2": [
+        {"content_id": 7, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-201", "subject_name": "Engineering Physics" },
+        {"content_id": 8, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-202", "subject_name": "Mathematics-II" },
+        {"content_id": 9, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-203", "subject_name": "Basic Mechanical Engineering" },
+        {"content_id": 10, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-204", "subject_name": "Basic Civil Engineering and Mechanics" },
+        {"content_id": 11, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-205", "subject_name": "Basic Computer Engineering" },
+        {"content_id": 12, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-206", "subject_name": "Language Lab and Seminars" }
+      ]
+    },
+    {
+      "year": 1,
+      "branch": "CIVIL",
+      "sem":[
+        {
+          "first":"1st Sem",
+          "second":"2nd Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-101", "subject_name": "Engineering Chemistry" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-102", "subject_name": "Mathematics-I" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-103", "subject_name": "English for Communication" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-104", "subject_name": "Basic Electrical & Electronics Engineering" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-105", "subject_name": "Engineering Graphics" },
+        {"content_id": 6, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "BT-106", "subject_name": "Manufacturing Practices" }
+      ],
+      "subjects2": [
+        {"content_id": 7, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-201", "subject_name": "Engineering Physics" },
+        {"content_id": 8, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-202", "subject_name": "Mathematics-II" },
+        {"content_id": 9, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-203", "subject_name": "Basic Mechanical Engineering" },
+        {"content_id": 10, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-204", "subject_name": "Basic Civil Engineering and Mechanics" },
+        {"content_id": 11, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-205", "subject_name": "Basic Computer Engineering" },
+        {"content_id": 12, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "BT-206", "subject_name": "Language Lab and Seminars" }
+      ]
+    },
+    {
+      "year": 2,
+      "branch": "CSE",
+      "sem":[
+        {
+          "first":"3rd Sem",
+          "second":"4th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ES-301", "subject_name": "Energy and Environmental Engineering" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-302", "subject_name": "Discrete Structure" },
+        {"content_id": 3, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-303", "subject_name": "Data Structures" },
+        {"content_id": 4, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-304", "subject_name": "Digital Systems" },
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-305", "subject_name": "Object Oriented Programming and Methodology" }
+      ],
+      "subjects2": [
+        {"content_id": 6, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "BT-301", "subject_name": "Mathematics-III" },
+        {"content_id": 7, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-402", "subject_name": "Analysis Design of Algorithm" },
+        {"content_id": 8, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-403", "subject_name": "Software Engineering" },
+        {"content_id": 9, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-404", "subject_name": "Computer Org. & Architecture" },
+        {"content_id": 10, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-405", "subject_name": "Operating Systems" }
+      ]
+    },
+    {
+      "year": 2,
+      "branch": "ECE",
+      "sem":[
+        {
+          "first":"3rd Sem",
+          "second":"4th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "BT-301", "subject_name": "Mathematics-III" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-302", "subject_name": "Electronic Measurement and Instrumentation" },
+        {"content_id": 3, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-303", "subject_name": "Digital System Design"},
+        {"content_id": 4, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-304", "subject_name": "Electronic Devices"},
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-305", "subject_name": "Network Analysis"}
+      ],
+      "subjects2": [
+        {"content_id": 6, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ES-401", "subject_name": "Energy and Environmental Engineering" },
+        {"content_id": 7, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-402", "subject_name": "Signals and Systems" },
+        {"content_id": 8, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-403", "subject_name": "Analog Communication" },
+        {"content_id": 9, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-404", "subject_name": "Control System" },
+        {"content_id": 10, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-405", "subject_name": "Analog Circuits" }
+      ]
+    },
+    {
+      "year": 2,
+      "branch": "ME",
+      "sem":[
+        {
+          "first":"3rd Sem",
+          "second":"4th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "BT-301", "subject_name": "Mathematics-III" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-302", "subject_name": "Thermodynamics" },
+        {"content_id": 3, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-303", "subject_name": "Material Technology" },
+        {"content_id": 4, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-304", "subject_name": "Strength of Material" },
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-305", "subject_name": "Manufacturing Process" }
+      ],
+      "subjects2": [
+        {"content_id": 6, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ES-401", "subject_name": "Introduction to Computer Science" },
+        {"content_id": 7, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-402", "subject_name": "Instrumentation & Control" },
+        {"content_id": 8, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-403", "subject_name": "Theory of Machines" },
+        {"content_id": 9, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-404", "subject_name": "Fluid Mechanics" },
+        {"content_id": 10, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-405", "subject_name": "Manufacturing Technology" }
+      ]
+    },
+    {
+      "year": 2,
+      "branch": "CIVIL",
+      "sem":[
+        {
+          "first":"3rd Sem",
+          "second":"4th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "BT-301", "subject_name": "Mathematics-III" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-302", "subject_name": "Construction Materials" },
+        {"content_id": 3, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-303", "subject_name": "Surveying" },
+        {"content_id": 4, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-304", "subject_name": "Building Planning and Architecture" },
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-305", "subject_name": "Strength of Materials" }
+      ],
+      "subjects2": [
+        {"content_id": 6, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ES-401", "subject_name": "Energy and Environmental Engineering" },
+        {"content_id": 7, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-702", "subject_name": "Construction Technology" },
+        {"content_id": 8, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-703", "subject_name": "Structural Analysis-I" },
+        {"content_id": 9, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-704", "subject_name": "Transportation Engineering-I" },
+        {"content_id": 10, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-705", "subject_name": "Engineering Geology & Remote Sensing" }
+      ]
+    },
+    {
+      "year": 3,
+      "branch": "CSE",
+      "sem":[
+        {
+          "first":"5th Sem",
+          "second":"6th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-501", "subject_name": "Theory of Computation" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-502", "subject_name": "Database Management Systems" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-503(A)", "subject_name": "Data Analytics" },
+        {"content_id": 4, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-503(B)", "subject_name": "Pattern Recognition" },
+        {"content_id": 5, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-503(C)", "subject_name": "Cyber Security" },
+        {"content_id": 6, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-504(A)", "subject_name": "Internet and Web Technology" },
+        {"content_id": 7, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-504(B)", "subject_name": "Object Oriented Programming" },
+        {"content_id": 8, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CS-504(C)", "subject_name": "Introduction to Database Management Systems" }
+      ],
+      "subjects2": [
+        {"content_id": 9, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-601", "subject_name": "Machine Learning" },
+        {"content_id": 10, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-602", "subject_name": "Computer Networks" },
+        {"content_id": 11, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-603(A)", "subject_name": "Advanced Computer Architecture" },
+        {"content_id": 12, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-603(B)", "subject_name": "Computer Graphics and Visualization" },
+        {"content_id": 13, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-603(C)", "subject_name": "Compiler Design" },
+        {"content_id": 14, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-604(A)", "subject_name": "Knowledge Management" },
+        {"content_id": 15, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-604(B)", "subject_name": "Project Management" },
+        {"content_id": 16, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CS-604(C)", "subject_name": "Rural Technology and Community Development" }
+      ]
+    },
+    {
+      "year": 3,
+      "branch": "ECE",
+      "sem":[
+        {
+          "first":"5th Sem",
+          "second":"6th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-501", "subject_name": "Microprocessor & its application" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-502", "subject_name": "Digital Communication" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-503(A)", "subject_name": "CNTI" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-503(B)", "subject_name": "Mobile Communication" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-503(C)", "subject_name": "Advanced Control System" },
+        {"content_id": 6, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-504(A)", "subject_name": "EMT (Electro Magnetic Theory)" },
+        {"content_id": 7, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-504(B)", "subject_name": "Computer System Organization" },
+        {"content_id": 8, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "EC-504(C)", "subject_name": "Process Control Instrumentation" }
+      ],
+      "subjects2": [
+        {"content_id": 9, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-601", "subject_name": "Digital Signal Processing" },
+        {"content_id": 10, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-602", "subject_name": "Antenna & wave propagation" },
+        {"content_id": 11, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-603(A)", "subject_name": "Data Communication" },
+        {"content_id": 12, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-603(B)", "subject_name": "CMOS Design" },
+        {"content_id": 13, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-603(C)", "subject_name": "Satellite Communication" },
+        {"content_id": 14, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-604(A)", "subject_name": "Micro-Controller and Embedded System" },
+        {"content_id": 15, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-604(B)", "subject_name": "Bio-Medical Electronics" },
+        {"content_id": 16, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "EC-604(C)", "subject_name": "Power Electronics" }
+      ]
+    },
+    {
+      "year": 3,
+      "branch": "ME",
+      "sem":[
+        {
+          "first":"5th Sem",
+          "second":"6th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "ME-501", "subject_name": "Mining Surveying-II" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "ME-502", "subject_name": "Mineral Processing" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "ME-503(A)", "subject_name": "Surface Mining" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "ME-503(B)", "subject_name": "Electronic Instrumentation" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "ME-504(A)", "subject_name": "Mining Legislation and Safety-I" },
+        {"content_id": 6, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "ME-504(B)", "subject_name": "Mechanics of Solids and Fluids" }
+      ],
+      "subjects2": [
+        {"content_id": 7, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-601", "subject_name": "Thermal Engineering and Gas Dynamics" },
+        {"content_id": 8, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-602", "subject_name": "Machine Component Design" },
+        {"content_id": 9, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-603(A)", "subject_name": "Turbo Machinery" },
+        {"content_id": 10, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-603(B)", "subject_name": "Computer Aided Engineering" },
+        {"content_id": 11, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-603(C)", "subject_name": "Product Design" },
+        {"content_id": 12, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-604(A)", "subject_name": "Robotics" },
+        {"content_id": 13, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-604(B)", "subject_name": "Optimization Techniques" },
+        {"content_id": 14, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "ME-604(C)", "subject_name": "Renewable Energy Technology" }
+      ]
+    },
+    {
+      "year": 3,
+      "branch": "CIVIL",
+      "sem":[
+        {
+          "first":"5th Sem",
+          "second":"6th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-501", "subject_name": "Fluid Mechanics-I" },
+        {"content_id": 2, "id": "five-card-2", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-502", "subject_name": "Transportation Engineering-II" },
+        {"content_id": 3, "id": "five-card-3", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-503(A)", "subject_name": "Structural Analysis" },
+        {"content_id": 4, "id": "five-card-4", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-503(B)", "subject_name": "Construction Planning and Management" },
+        {"content_id": 5, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-503(C)", "subject_name": "Quantity Surveying and Costing" },
+        {"content_id": 6, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-503(D)", "subject_name": "Marine Construction" },
+        {"content_id": 7, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-504(A)", "subject_name": "Urban and Town Planning" },
+        {"content_id": 8, "id": "five-card-5", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-504(B)", "subject_name": "Remote Sensing and GIS" },
+        {"content_id": 9, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-504(C)", "subject_name": "Renewable Energy Resources" },
+        {"content_id": 10, "id": "five-card-6", "title":"1st Sem", "class": "border-none cse-card", "subject_id": "CE-504(D)", "subject_name": "Entrepreneurship development and management" }
+      ],
+      "subjects2": [
+        {"content_id": 11, "id": "five-card-1", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-601", "subject_name": "Structural Design and Drawing" },
+        {"content_id": 12, "id": "five-card-2", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-602", "subject_name": "Environmental Engineering-I" },
+        {"content_id": 13, "id": "five-card-3", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-603(A)", "subject_name": "Water Resource Engineering" },
+        {"content_id": 14, "id": "five-card-4", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-603(B)", "subject_name": "Precast and modular construction" },
+        {"content_id": 15, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-603(C)", "subject_name": "Advance Pavement Design" },
+        {"content_id": 16, "id": "five-card-6", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-603(D)", "subject_name": "Cost Effective and Eco-friendly Design" },
+        {"content_id": 17, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-604(A)", "subject_name": "Fluid Mechanics-II" },
+        {"content_id": 18, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-604(B)", "subject_name": "Intellectual Properties Rights(IPR)" },
+        {"content_id": 19, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-604(C)", "subject_name": "Environmental Impact Assessment" },
+        {"content_id": 20, "id": "five-card-5", "title":"2nd Sem", "class": "border-none cse-card", "subject_id": "CE-604(D)", "subject_name": "Operation Research" }
+      ]
+    },
+    {
+      "year": 4,
+      "branch": "CSE",
+      "sem":[
+        {
+          "first":"7th Sem",
+          "second":"8th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-701", "subject_name": "Software Architectures" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-702(A)", "subject_name": "Computational Intelligence" },
+        {"content_id": 3, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-702(B)", "subject_name": "Deep and Reinforcement Learning" },
+        {"content_id": 4, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-702(C)", "subject_name": "Wireless and Mobile Computing" },
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-702(D)", "subject_name": "Big Data" },
+        {"content_id": 6, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-703(A)", "subject_name": "CryptoGraphy and Information Security" },
+        {"content_id": 7, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-703(B)", "subject_name": "Data Mining and Warehousing" },
+        {"content_id": 8, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-703(C)", "subject_name": "Agile Software Development" },
+        {"content_id": 9, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-703(D)", "subject_name": "Disaster Management" }
+      ],
+      "subjects2": [
+        {"content_id": 10, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-801", "subject_name": "Internet of Things" },
+        {"content_id": 11, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-802(A)", "subject_name": " Block Chain Technologies" },
+        {"content_id": 12, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-802(B)", "subject_name": "Cloud Computing" },
+        {"content_id": 13, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-802(C)", "subject_name": "High Performance computing" },
+        {"content_id": 14, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-802(D)", "subject_name": "Object Oriented Software Engineering" },
+        {"content_id": 15, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-803(A)", "subject_name": "Image Processing and Computer Vision" },
+        {"content_id": 16, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-803(B)", "subject_name": "Game Theory with Engineering applications" },
+        {"content_id": 17, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-803(C)", "subject_name": "Internet of Things" },
+        {"content_id": 18, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-803(D)", "subject_name": "Managing Innovation and Entrepreneurship" }
+      ]
+    },
+    {
+      "year": 4,
+      "branch": "ECE",
+      "sem":[
+        {
+          "first":"7th Sem",
+          "second":"8th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-701", "subject_name": "VLSI Design" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-702(A)", "subject_name": "Microwave Engineering" },
+        {"content_id": 3, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-702(B)", "subject_name": "Information Theory & Coding"},
+        {"content_id": 4, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-702(C)", "subject_name": "Nano Electronics"},
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-703(A)", "subject_name": "Cellular Mobile Communication"},
+        {"content_id": 6, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-703(B)", "subject_name": "Internet of Things"},
+        {"content_id": 7, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "EC-703(C)", "subject_name": "Probability Theory & Stochastic Processor"}
+      ],
+      "subjects2": [
+        {"content_id": 8, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ES-801", "subject_name": "Optical Fibre Communication" },
+        {"content_id": 9, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-802(A)", "subject_name": "AI & Signal Processing" },
+        {"content_id": 10, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-802(B)", "subject_name": "Wireless Communication" },
+        {"content_id": 11, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-802(C)", "subject_name": "5G Technology" },
+        {"content_id": 12, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-803(A)", "subject_name": "Wireless Network" },
+        {"content_id": 13, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-803(B)", "subject_name": "Digital Image Processing" },
+        {"content_id": 14, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "EC-803(C)", "subject_name": "Speech Processing" }
+      ]
+    },
+    {
+      "year": 4,
+      "branch": "ME",
+      "sem":[
+        {
+          "first":"7th Sem",
+          "second":"8th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-701", "subject_name": "Heat and Mass Transfer" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-702(A)", "subject_name": "Advanced Machining Process" },
+        {"content_id": 3, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-702(B)", "subject_name": "Internet of Things (IOT)" },
+        {"content_id": 4, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-702(C)", "subject_name": "Power Plant Engineering" },
+        {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-702(D)", "subject_name": "Advance Machine Design" },
+        {"content_id": 6, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-703(A)", "subject_name": "Operation Research and Supply chain" },
+        {"content_id": 7, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-703(B)", "subject_name": "Artificial Intelligence Techniques" },
+        {"content_id": 8, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-703(C)", "subject_name": "Systems Engineering" },
+        {"content_id": 9, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "ME-703(D)", "subject_name": "Reliability Engineering" }
+      ],
+      "subjects2": [
+        {"content_id": 10, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-801", "subject_name": "Refrigeration &Air Conditioning" },
+        {"content_id": 11, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-802(A)", "subject_name": "Automobile Engineering" },
+        {"content_id": 12, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-802(B)", "subject_name": "Tribology & Maintenance Engineering" },
+        {"content_id": 13, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-802(C)", "subject_name": "Machine Tool Design" },
+        {"content_id": 14, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-802(D)", "subject_name": "Production Planning and Control " },
+        {"content_id": 15, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-803(A)", "subject_name": "Data analytics" },
+        {"content_id": 16, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-803(B)", "subject_name": "Energy Conservation, Management& Audit" },
+        {"content_id": 17, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-803(C)", "subject_name": "Entrepreneurship and Management Concepts" },
+        {"content_id": 18, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "ME-803(D)", "subject_name": "Management Information System" }
+      ]
+    },
+    {
+      "year": 4,
+      "branch": "CIVIL",
+      "sem":[
+        {
+          "first":"7th Sem",
+          "second":"8th Sem"
+        }
+      ],
+      "subjects1": [
+        {"content_id": 1, "id": "five-card-1", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-701", "subject_name": "GeoTechnical Engineering" },
+        {"content_id": 2, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-702(A)", "subject_name": "Prestressed Concrete Structures" },
+        {"content_id": 3, "id": "five-card-2", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-702(B)", "subject_name": "Environmental Engineering-II" },
+        {"content_id": 4, "id": "five-card-3", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-702(C)", "subject_name": "Structural Dynamics" },
+        {"content_id": 5, "id": "five-card-4", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-702(D)", "subject_name": "Structural Design and Drawing" },
+        {"content_id": 6, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-703(A)", "subject_name": "Internet of Things (IOT)" },
+        {"content_id": 7, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-703(B)", "subject_name": "Project Management" },
+        {"content_id": 8, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-703(C)", "subject_name": "Integrated Waste Management" },
+        {"content_id": 9, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CE-703(D)", "subject_name": "Building Services" }
+      ],
+      "subjects2": [
+        {"content_id": 10, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-801", "subject_name": "Design of Steel Structures" },
+        {"content_id": 11, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-802(A)", "subject_name": "Engineering Hydrology" },
+        {"content_id": 12, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-802(B)", "subject_name": "Foundation Engineering" },
+        {"content_id": 13, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-802(c)", "subject_name": "Bridge Engineering" },
+        {"content_id": 14, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-802(D)", "subject_name": "EarthQuake Resistant Design of Structures" },
+        {"content_id": 15, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-803(A)", "subject_name": "Artificial Intelligence" },
+        {"content_id": 16, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-803(B)", "subject_name": "Data Analytics" },
+        {"content_id": 17, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-803(c)", "subject_name": "Retrofitting and Rehabilitation of Structures" },
+        {"content_id": 18, "id": "five-card-5", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CE-803(D)", "subject_name": "Integrated Water Management" }
+      ]
+    }
+  ]
+  
