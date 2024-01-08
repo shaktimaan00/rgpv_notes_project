@@ -9,22 +9,22 @@ const SelectBranch = ({ onSelectBranch }) => {
     const branches = [
         {
             branch: "CSE",
-            year_letter: "1st branch",
-            src: "./images/doge-civil.png"
-        },
-        {
-            branch: "ME",
-            year_letter: "2nd branch",
+            year_letter: "Computer Science",
             src: "./images/doge-civil.png"
         },
         {
             branch: "ECE",
-            year_letter: "3rd branch",
+            year_letter: "Electronics and Comm.",
+            src: "./images/doge-civil.png"
+        },
+        {
+            branch: "ME",
+            year_letter: "Mechanical",
             src: "./images/doge-civil.png"
         },
         {
             branch: "CIVIL",
-            year_letter: "4th branch",
+            year_letter: "Civil",
             src: "./images/doge-civil.png"
         }
     ];

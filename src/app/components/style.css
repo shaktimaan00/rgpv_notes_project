@@ -9,6 +9,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-bottom: 2rem;
 }
 
 .semester-main-container {
@@ -206,4 +207,8 @@
     background-color: red;
 }
 
-
+.to-cards-btn{
+    width: 14rem;
+    font-size: 1rem;
+    padding: 1.5rem;
+}
