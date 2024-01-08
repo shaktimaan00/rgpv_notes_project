@@ -1,5 +1,6 @@
 'use client';
-import { useSearchParams, useRouter } from "next/navigation";
+import { useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import subjectsData from '../data.json';
 import "../components/style.css"
 import { Button, Card } from '@nextui-org/react';
@@ -7,10 +8,10 @@ import Link from 'next/link';
 
 
 const page = () => {
-    const router = useRouter();
-    const searchParams = useSearchParams();
-    const branch = searchParams.get("branch");
-    const year = searchParams.get("year");
+    const Router = useRouter();
+    const SearchParams = useSearchParams();
+    const branch = SearchParams.get("branch");
+    const year = SearchParams.get("year");
 
     const filteredData = subjectsData.find((data) => {
         return data.year === Number(year) && data.branch === branch;
@@ -21,7 +22,7 @@ const page = () => {
     }
 
     const handleClick = () => {
-        router.back();
+        Router.back();
     }
 
     return (
