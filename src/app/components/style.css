@@ -13,7 +13,6 @@
 }
 
 .semester-main-container {
-    
     display: grid;
     gap: 1rem;
     place-items: center;
@@ -34,12 +33,14 @@
 
 @media only screen and (max-width: 550px){
     .semester-main-container{
+        grid-template-columns: 1fr;
         gap: 0.5rem;
     }
 
     .semester-title{
         /* padding: 1.5rem 0 */
-        padding-top: 1rem;
+        font-size: 8vw;
+        padding-top: 3rem;
         padding-bottom: 1.5rem;
     }
 }
@@ -123,7 +124,7 @@
 
 @media screen and (max-width:768px) {
     #main-card{
-        padding: 0;
+        padding: 2rem 0 2rem 0;
     }
 
     #semi-main-card-1, #semi-main-card-2{
