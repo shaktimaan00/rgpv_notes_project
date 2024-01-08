@@ -7,7 +7,7 @@ import { Button, Card } from '@nextui-org/react';
 import Link from 'next/link';
 
 
-const page = () => {
+const Card = () => {
     const Router = useRouter();
     const SearchParams = useSearchParams();
     const branch = SearchParams.get("branch");
@@ -85,4 +85,4 @@ const page = () => {
     )
 }
 
-export default page;
+export default Card;
