@@ -11,6 +11,10 @@ export default async function SubjectDetails ({searchParams}) {
     
     const filteredData = data.find((item)=> item.subject_code === SubjectId);
 
+    if(!filteredData){
+        return <h1>No Data Found</h1>;
+    }
+
     return (
         <div className="pd-main-container">
             <div className="pd-semi-container-1">

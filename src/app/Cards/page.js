@@ -37,20 +37,20 @@ const CardsPage = () => {
                                 <p className="subject-id">{item.subject_id}</p>
                                 <p className="subject-name">{item.subject_name}</p>
                             </div>
-                            <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
-                                <Link
-                                    href={{
-                                        pathname: '/PageDetails',
-                                        query: {
-                                            subjectId: `${item.subject_id}`,
-                                            subjectName: `${item.subject_name}`
-                                        }
-                                    }}
-                                    // as={'../PageDetails'}
-                                >
+                            <Link
+                                href={{
+                                    pathname: '/PageDetails',
+                                    query: {
+                                        subjectId: `${item.subject_id}`,
+                                        subjectName: `${item.subject_name}`
+                                    }
+                                }}
+                            // as={'../PageDetails'}
+                            >
+                                <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
                                     Click for Notes..
-                                </Link>
-                            </Button>
+                                </Button>
+                            </Link>
                         </Card>
                     </div>
                 ))}
@@ -65,23 +65,26 @@ const CardsPage = () => {
                                 <p className="subject-id">{item.subject_id}</p>
                                 <p className="subject-name">{item.subject_name}</p>
                             </div>
-                            <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
-                                <Link
-                                    href={{
-                                        pathname: '../pages',
-                                        query: {
-                                            subjectId: `${item.subject_id}`
-                                        }
-                                    }}
-                                >
+
+                            <Link
+                                href={{
+                                    pathname: '/PageDetails',
+                                    query: {
+                                        subjectId: `${item.subject_id}`,
+                                        subjectName: `${item.subject_name}`
+                                    }
+                                }}
+                            // as={'../PageDetails'}
+                            >
+                                <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
                                     Click for Notes..
-                                </Link>
-                            </Button>
+                                </Button>
+                            </Link>
                         </Card>
                     </div>
                 ))}
             </div>
-        </div>
+        </div >
     )
 }
 
