@@ -7,7 +7,7 @@ import { Button, Card } from '@nextui-org/react';
 import Link from 'next/link';
 
 
-const CardsPage = () => {
+const SubjectBox = () => {
     const Router = useRouter();
     const SearchParams = useSearchParams();
     const branch = SearchParams.get("branch");
@@ -88,4 +88,4 @@ const CardsPage = () => {
     )
 }
 
-export default CardsPage;
+export default SubjectBox;

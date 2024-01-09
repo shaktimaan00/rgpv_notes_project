@@ -31,7 +31,7 @@ export default function Home() {
             <SelectBranch onSelectBranch={handleSelectBranch} />
           <Link
             href={{
-              pathname: '/Cards',
+              pathname: '/SubjectBox',
               query: {
                 year: `${selectedYear}`,
                 branch: `${selectedBranch}`
