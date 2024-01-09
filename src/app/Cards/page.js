@@ -1,7 +1,7 @@
 'use client';
 import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
-import subjectsData from '../data.json';
+import subjectsData from '../json/data.json';
 import "../components/style.css"
 import { Button, Card } from '@nextui-org/react';
 import Link from 'next/link';
@@ -40,13 +40,13 @@ const CardsPage = () => {
                             <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
                                 <Link
                                     href={{
-                                        pathname: './pages',
+                                        pathname: '/PageDetails',
                                         query: {
                                             subjectId: `${item.subject_id}`,
                                             subjectName: `${item.subject_name}`
                                         }
                                     }}
-                                    as={'../PageDetails'}
+                                    // as={'../PageDetails'}
                                 >
                                     Click for Notes..
                                 </Link>

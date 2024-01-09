@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1,
+        "subject_code": "BT-101",
+        "subject_name": "Computer Fundamentals",
+        "chapters": [
+            {
+                "buttonText": "Chapter 1",
+                "chapterId": 1,
+                "chapterNumber": "Unit 1",
+                "chapterName": "Introduction to Computers"
+            },
+            {
+                "buttonText": "Chapter 2",
+                "chapterId": 2,
+                "chapterNumber": "Unit 2",
+                "chapterName": "Computer Arithmetic"
+            },
+            {
+                "buttonText": "Chapter 3",
+                "chapterId": 3,
+                "chapterNumber": "Unit 3",
+                "chapterName": "Input-Output Devices"
+            },
+            {
+                "buttonText": "Chapter 4",
+                "chapterId": 4,
+                "chapterNumber": "Unit 4",
+                "chapterName": "Computer Memory"
+            },
+            {
+                "buttonText": "Chapter 5",
+                "chapterId": 5,
+                "chapterNumber": "Unit 5",
+                "chapterName": "Computer Software"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "subject_code": "BT-102",
+        "subject_name": "Programming Fundamentals",
+        "chapters": [
+            {
+                "buttonText": "Chapter 1",
+                "chapterId": 1,
+                "chapterNumber": "Unit 1",
+                "chapterName": "Introduction to C++"
+            },
+            {
+                "buttonText": "Chapter 2",
+                "chapterId": 2,
+                "chapterNumber": "Unit 2",
+                "chapterName": "Operators and Expressions"
+            },
+            {
+                "buttonText": "Chapter 3",
+                "chapterId": 3,
+                "chapterNumber": "Unit 3",
+                "chapterName": "Control Structures"
+            },
+            {
+                "buttonText": "Chapter 4",
+                "chapterId": 4,
+                "chapterNumber": "Unit 4",
+                "chapterName": "Functions"
+            },
+            {
+                "buttonText": "Chapter 5",
+                "chapterId": 5,
+                "chapterNumber": "Unit 5",
+                "chapterName": "Arrays"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "subject_code": "BT-103",
+        "subject_name": "Data Structures",
+        "chapters": [
+            {
+                "buttonText": "Chapter 1",
+                "chapterId": 1,
+                "chapterNumber": "Unit 1",
+                "chapterName": "Introduction to Data Structures"
+            },
+            {
+                "buttonText": "Chapter 2",
+                "chapterId": 2,
+                "chapterNumber": "Unit 2",
+                "chapterName": "Arrays"
+            },
+            {
+                "buttonText": "Chapter 3",
+                "chapterId": 3,
+                "chapterNumber": "Unit 3",
+                "chapterName": "Stacks"
+            },
+            {
+                "buttonText": "Chapter 4",
+                "chapterId": 4,
+                "chapterNumber": "Unit 4",
+                "chapterName": "Queues"
+            },
+            {
+                "buttonText": "Chapter 5",
+                "chapterId": 5,
+                "chapterNumber": "Unit 5",
+                "chapterName": "Linked Lists"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "subject_code": "BT-104",
+        "subject_name": "Database Management Systems",
+        "chapters": [
+            {
+                "buttonText": "Chapter 1",
+                "chapterId": 1,
+                "chapterNumber": "Unit 1",
+                "chapterName": "Introduction to DBMS"
+            },
+            {
+                "buttonText": "Chapter 2",
+                "chapterId": 2,
+                "chapterNumber": "Unit 2",
+                "chapterName": "Relational Model"
+            },
+            {
+                "buttonText": "Chapter 3",
+                "chapterId": 3,
+                "chapterNumber": "Unit 3",
+                "chapterName": "SQL"
+            },
+            {
+                "buttonText": "Chapter 4",
+                "chapterId": 4,
+                "chapterNumber": "Unit 4",
+                "chapterName": "Database Design"
+            },
+            {
+                "buttonText": "Chapter 5",
+                "chapterId": 5,
+                "chapterNumber": "Unit 5",
+                "chapterName": "Database Applications"
+            }
+        ]
+    }
+]
