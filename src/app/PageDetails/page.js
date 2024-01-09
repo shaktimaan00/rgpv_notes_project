@@ -1,13 +1,11 @@
 // "use client"
 import "../components/style.css";
-import { promises as fs } from 'fs';
 import FileDownload from "../components/FileDownload";
+import data from '../json/subjectData.json';
 
-export default async function SubjectDetails ({searchParams}) {
+export default function SubjectDetails ({searchParams}) {
     const SubjectId = searchParams.subjectId;
     const SubjectName  = searchParams.subjectName;
-    const file = await fs.readFile(process.cwd() + '/src/app/json/subjectData.json', 'utf8');
-    const data = JSON.parse(file);
     
     const filteredData = data.find((item)=> item.subject_code === SubjectId);
 
