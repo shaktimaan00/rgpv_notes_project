@@ -1,150 +1,703 @@
 [
     {
-        "id": 1,
-        "subject_code": "BT-101",
-        "subject_name": "Computer Fundamentals",
+      "id": 1,
+      "semester": "1st",
+      "branch": "CSE",
+      "subject_code": "BT-101",
+      "subject_name": "Engineering Chemistry",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Water - Analysis, Treatments and Industrial Applications",
+          "description": "Sources, Impurities, Hardness & its units, Determination of Hardness by EDTA method, Alkanity and its detrmination and related numerical problems"
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Boiler problem & softening methods",
+          "description": "Boiler troubles (Sludge & Scale, Priming & Foaming, Boiler Corrosion, Caustic Embrittlement), Softening methods (Lime-Soda, Zeolite and Ion Exchange Methods) and related numerical problems"
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Lubricants and Lubrication",
+          "description": "Introduction, Mechanism of lubrication, Classification of lubricants, significance & determination of Viscosity and Viscosity Index, Flash & Fire Points, Cloud & Pour Points, Aniline Point, Acid Number, Saponification Number, Steam Emulsification Number and related numerical problems."
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Polymer & polymerization",
+          "description": "Introduction, types of polymerisation, Classification, mechanism of polymerisation (Free radical & Ionic polymerization). Thermoplastic &Thermosetting polymers Elementary idea of Biodegradable polymers, preparation, properties & uses of the following polymers- PVC, PMMA, Teflon, Nylon 6, Nylon 6:6, Polyester phenol formaldehyde, Urea- Formaldehyde, Buna N, Buna S, Vulcanization of Rubber."
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Phase equilibrium and Corrosion",
+          "description": "Phase diagram of single component system (Water) Phase diagram of binary Eutectic System ( Cu-Ag.) Corrosion: Types, Mechanisms & prevention."
+        },
+        {
+          "buttonText": "Chapter 6",
+          "chapterId": 6,
+          "chapterNumber": "Unit 6",
+          "chapterName": "Spectroscopic techniques and application",
+          "description": "Principle, Instrumentation & Applications, electronics spectroscopy, Vibrational & Rotational Spectroscopy of diatomic molecules."
+        },
+        {
+          "buttonText": "Chapter 7",
+          "chapterId": 7,
+          "chapterNumber": "Unit 7",
+          "chapterName": "Periodic properties",
+          "description": "Effective Nuclear Charge, Variations: S, P, d & f Orbital energies of atoms in periodic table, Electronics Configuration, atomic & Ionic sizes, electron affinity & electro negativity, Ploarizability & Oxidation States."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "semester": "1st",
+      "branch": "CSE",
+      "subject_code": "BT-102",
+      "subject_name": "Mathematics-I",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Module 1: Calculus",
+          "description": "Rolle's theorem, Mean Value theorems, Expansion of functions by Mc. Laurin's and Taylor's for one variable; Taylor's theorem for function of two variables, Partial Differentiation, Maxima & Minima (two and three variables), Method of Lagranges Multipliers."
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Module 2: Calculus",
+          "description": "Definite Integral as a limit of a sum and Its application in summation of series; Beta and Gamma functions and their properties; Applications of definite integrals to evaluate surface areas and volumes of revolutions. Multiple Integral, Change the order of the integration, Applications of multiple integral for calculating area and volumes of the curves."
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Module 3: Sequences and series",
+          "description": "Sequences and series: (6 hours): Convergence of sequence and series, tests for convergence; Power series, Taylor's series, series for exponential, trigonometric and logarithm functions; Fourier series: Half range sine and cosine series, Parseval’s theorem."
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Module 4: Vector Spaces"
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Module 5: Matrices",
+          "description": "Rank of a Matrix, Solution of Simultaneous Linear Equations by Elementary Transformation, Consistency of Equation, Eigen Values and Eigen Vectors, Diagonalization of Matrices, Cayley-Hamilton theorem and its applications to find inverse."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "semester": "1st",
+      "branch": "CSE",
+      "subject_code": "BT-103",
+      "subject_name": "English for communication",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Identifying Common errors in writing",
+          "description": "Articles, Subject-Verb Agreement, Prepositions, Active and Passive Voice, Reported Speech: Direct and Indirect, Sentence Structure."
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Vocabulary building and Comprehension",
+          "description": "Acquaintance with prefixes and suffixes from foreign languages in English to form derivatives, synonyms, antonyms, Reading comprehension."
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Communication",
+          "description": "Introduction, Meaning and Significance, Process of Communication, Oral and Written Communication, 7 c’s of Communication, Barriers to Communication and Ways to overcome them, Importance of Communication for Technical students, nonverbal communication."
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Developing Writing Skills",
+          "description": "Planning, Drafting and Editing, Precise Writing, Précis, Technical definition and Technical description. Report Writing: Features of writing a good Report, Structure of a Formal Report, Report of Trouble, Laboratory Report, Progress Report."
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Business Correspondence",
+          "description": "Importance of Business Letters, Parts and Layout; Application, Contents of good Resume, guidelines for writing Resume, Calling/ Sending Quotation, Order, Complaint, E-mail and Tender."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "semester": "1st",
+      "branch": "CSE",
+      "subject_code": "BT-104",
+      "subject_name": "Basic Eectronic & Electrical Engineering",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "D.C. Circuits",
+          "description": "Voltage and current sources, dependent and independent sources, Units and dimensions, Source Conversion, Ohm’s Law, Kirchhoff’s Law, Superposition theorem, Thevenin’s theorem and their application for analysis of series and parallel resistive circuits excited by independent voltage sources, Power & Energy in such circuits. Mesh & nodal analysis, Star Delta transformation & circuits."
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "1- phase AC Circuits",
+          "description": "Generation of sinusoidal AC voltage, definition of average value, R.M.S value, form factor and peak factor of AC quantity , Concept of phasor, Concept of Power factor, Concept of impedance and admittance, Active, reactive and apparent power, analysis of R-L, R-C, R-L-C series & parallel circuit 3-phase AC Circuits: Necessity and advantages of three phase systems, Meaning of Phase sequence, balanced and unbalanced supply and loads. Relationship between line and phase values for balanced star and delta connections. Power in balanced & unbalanced three-phase system and their measurements"
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Magnetic Circuits",
+          "description": "Basic definitions, magnetization characteristics of Ferro magnetic materials, self inductance and mutual inductance, energy in linear magnetic systems, coils connected in series, AC excitation in magnetic circuits, magnetic field produced by current carrying conductor, Force on a current carrying conductor. Induced voltage, laws of electromagnetic Induction, direction of induced E.M.F. Single phase transformer- General construction, working principle, e.m.f. equation, equivalent circuits, phasor diagram, voltage regulation, losses and efficiency, open circuit and short circuit test"
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Electrical Machines",
+          "description": "Construction, Classification & Working Principle of DC machine, induction machine and synchronous machine. Working principle of 3-Phase induction motor, Concept of slip in 3- Phase induction motor, Explanation of Torque-slip characteristics of 3-Phase induction motor. Types of losses occurring in electrical machines. Applications of DC machine, induction machine and synchronous machine."
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Basic Electronics",
+          "description": "Number systems & Their conversion used in digital electronics, De morgan’s theorem, Logic Gates, half and full adder circuits, R-S flip flop, J-K flip flop. Introduction to Semiconductors, Diodes, V-I characteristics, Bipolar junction transistors (BJT) and their working, introduction to CC, CB & CE transistor configurations, different configurations and modes of operation of BJT"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "semester": "1st",
+      "branch": "CSE",
+      "subject_code": "BT-105",
+      "subject_name": "Engineering Graphics",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Module 1: Introduction to Engineering Drawing covering",
+          "description": "Principles of Engineering Graphics and their significance, usage of Drawing instruments, lettering, Conic sections including the Rectangular Hyperbola (General method only); Cycloid, Epicycloid, Hypocycloid and Involute; Scales – Plain, Diagonal and Vernier Scales"
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Module 2: Orthographic Projections covering",
+          "description": "Principles of Orthographic Projections- Conventions - Projections of Points and lines inclined to both planes; Projections of planes inclined Planes - Auxiliary Planes"
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Module 3: Projections of Regular Solids covering",
+          "description": "Draw simple annotation, dimensioning and scale. Floor plans that include: windows, doors, and fixtures such as WC, bath, sink, shower, etc."
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Module 4:Sections and Sectional Views of Right Angular Solids covering",
+          "description": "Prism, Cylinder, Pyramid, Cone – Auxiliary Views; Development of surfaces of Right Regular Solids - Prism, Pyramid, Cylinder and Cone; Draw the sectional orthographic views of geometrical solids, objects from industry and dwellings (foundation to slab only)"
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Module 5: Isometric Projections covering",
+          "description": "Principles of Isometric projection – Isometric Scale, Isometric Views, Conventions; Isometric Views of lines, Planes, Simple and compound Solids; Conversion of Isometric Views to Orthographic Views and Vice-versa, Conventions"
+        },
+        {
+          "buttonText": "Chapter 6",
+          "chapterId": 6,
+          "chapterNumber": "Unit 6",
+          "chapterName": "Module 6: Overview of Computer Graphics covering",
+          "description": "Listing the computer technologies that impact on graphical communication, Demonstrating knowledge of the theory of CAD software [such as: The Menu System, Toolbars (Standard, Object Properties, Draw, Modify and Dimension), Drawing Area (Background, Crosshairs, Coordinate System), Dialog boxes and windows, Shortcut menus (Button Bars), The Command Line (where applicable), The Status Bar, Different methods of zoom as used in CAD, Select and erase objects.; Isometric Views of lines, Planes, Simple and compound Solids]"
+        },
+        {
+          "buttonText": "Chapter 7",
+          "chapterId": 7,
+          "chapterNumber": "Unit 7",
+          "chapterName": "Module 7: Customisation & CAD Drawing",
+          "description": "Customisation & CAD Drawing consisting of set up of the drawing page and the printer, including scale settings, Setting up of units and drawing limits; ISO and ANSI standards for coordinate dimensioning and tolerancing; Orthographic constraints, Snap to objects manually and automatically; Producing drawings by using various coordinate input entry methods to draw straight lines, Applying various ways of drawing circles"
+        },
+        {
+          "buttonText": "Chapter 8",
+          "chapterId": 8,
+          "chapterNumber": "Unit 8",
+          "chapterName": "Module 8: Annotations, layering",
+          "description": "Annotations, layering & other functions covering applying dimensions to objects, applying annotations to drawings; Setting up and use of Layers, layers to create drawings, Create, edit and use customized layers; Changing line lengths through modifying existing lines (extend/lengthen); Printing documents to paper using the print command; orthographic projection techniques; Drawing sectional views of composite right regular geometric solids and project the true shape of the sectioned surface; Drawing annotation, Computer-aided design (CAD) software modeling of parts and assemblies. Parametric and non-parametric solid, surface, and wireframe models. Part editing and two-dimensional documentation of models. Planar projection theory, including sketching of perspective, isometric, multiview, auxiliary, and section views. Spatial visualization exercises. Dimensioning guidelines, tolerancing techniques; dimensioning and scale multi views of dwelling"
+        },
+        {
+          "buttonText": "Chapter 9",
+          "chapterId": 9,
+          "chapterNumber": "Unit 9",
+          "chapterName": "Module 9",
+          "description": "Demonstration of a simple team design project that illustrates Geometry and topology of engineered components: creation of engineering models and their presentation in standard 2D blueprint form and as 3D wire-frame and shaded solids; meshed topologies for engineering analysis and toolpath generation for component manufacture; geometric dimensioning and tolerancing; Use of solidmodeling software for creating associative models at the component and assembly levels; floor plans that include: windows, doors, and fixtures such as WC, bath, sink, shower, etc. Applying colour coding according to building drawing practice; Drawing sectional elevation showing foundation to ceiling; Introduction to Building Information Modelling (BIM)."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "semester": "1st",
+      "branch": "CSE",
+      "subject_code": "BT-106",
+      "subject_name": "",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "",
+          "description": ""
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "",
+          "description": ""
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "",
+          "description": ""
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "",
+          "description": ""
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "semester": "7th",
+      "branch": "CSE",
+      "subject_code": "CS-701",
+      "subject_name": "Software Architectures",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Overview of Software development methodology",
+          "description": "Overview of Software development methodology and software quality model, different models of software development and their issues. Introduction to software architecture, evolution of software architecture, software components and connectors, common software architecture frameworks, Architecture business cycle – architectural patterns - reference model."
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Software architecture models",
+          "description": "structural models, framework models, dynamic models, process models. Architectures styles: dataflow architecture, pipes and filters architecture, call-and return architecture, data-centered architecture, layered architecture, agent based architecture, Micro-services architecture, Reactive Architecture, Representational state transfer architecture etc. "
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": " Software architecture implementation technologies",
+          "description": "Software Architecture Description Languages (ADLs), Struts, Hibernate, Node JS, Angular JS, J2EE – JSP, Servlets, EJBs; middleware: JDBC, JNDI, JMS, RMI and CORBA etc. Role of UML in software architecture. "
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Software Architecture analysis and design",
+          "description": "Software Architecture analysis and design: requirements for architecture and the life-cycle view of architecture design and analysis methods, architecture-based economic analysis: Cost Benefit Analysis Method (CBAM), Architecture Tradeoff Analysis Method (ATAM). Active Reviews for Intermediate Design (ARID), Attribute Driven Design method (ADD), architecture reuse, Domain - specific Software architecture."
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Software Architecture documentation",
+          "description": "principles of sound documentation, refinement, context diagrams, variability, software interfaces Documenting the behavior of software elements and software systems, documentation package using a seven-part template"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "semester": "7th",
+      "branch": "CSE",
+      "subject_code": "CS-702(A)",
+      "subject_name": "Computational Intelligence",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Introduction to Computational Intelligence",
+          "description": "Introduction to Computational Intelligence; types of Computational Intelligence, components of Computational Intelligence. Concept of Learning/Training model. Parametric Models, Nonparametric Models. Multilayer Networks: Feed Forward network, Feedback network"
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Fuzzy Systems",
+          "description": "Fuzzy Systems: Fuzzy set theory: Fuzzy sets and operations, Membership Functions, Concept of Fuzzy relations and their composition, Concept of Fuzzy Measures; Fuzzy Logic: Fuzzy Rules, Inferencing; Fuzzy Control - Selection of Membership Functions, Fuzzyfication, Rule Based Design & Inferencing, Defuzzyfication. "
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Genetic Algorithms",
+          "description": "Basic Genetics, Concepts, Working Principle, Creation of Offsprings, Encoding, Fitness Function, Selection Functions, Genetic Operators-Reproduction, Crossover, Mutation; Genetic Modeling, Benefits. "
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Rough Set Theory",
+          "description": "Introduction, Fundamental Concepts, Set approximation, Rough membership, Attributes, Optimization. Hidden Markov Models, Decision tree model. "
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Introduction to Swarm Intelligence",
+          "description": "Swarm Intelligence Techniques: Ant Colony Optimization, Particle Swarm Optimization, Bee Colony Optimization etc. Applications of Computational Intelligence. "
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "semester": "7th",
+      "branch": "CSE",
+      "subject_code": "CS-702(B)",
+      "subject_name": "Deep & Reinforcement Learning",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "History of Deep Learning",
+          "description": "History of Deep Learning, McCulloch Pitts Neuron, Thresholding Logic, Activation functions, Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalue Decomposition. Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs, Encoder Decoder Models, Attention Mechanism, Attention overimages."
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Autoencoders and relation to PCA",
+          "description": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoisingautoencoders, Sparse autoencoders, Contractive autoencoders, Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout, Batch Normalization, Instance Normalization, Group Normalization."
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Greedy Layerwise Pre-training",
+          "description": "Greedy Layerwise Pre-training, Better activation functions, Better weight initialization methods, Learning Vectorial Representations Of Words, Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Recent Trends in Deep Learning Architectures."
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Introduction to reinforcement learning",
+          "description": "Bandit algorithms – UCB, PAC,Median Elimination, Policy Gradient, Full RL & MDPs, Bellman Optimality, Dynamic Programming - Value iteration, Policy iteration, and Q-learning & Temporal Difference Methods, Temporal-Difference Learning, Traces, Function Approximation, Least Squares Methods"
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Advanced Q-learning algorithms",
+          "description": " Fitted Q, Deep Q-Learning , Advanced Q-learning algorithms , Learning policies by imitating optimal controllers , DQN & Policy Gradient, Policy Gradient Algorithms for Full RL, Hierarchical RL,POMDPs, Actor-Critic Method, Inverse reinforcement learning, Maximum Entropy Deep Inverse Reinforcement Learning, Generative Adversarial Imitation Learning,Recent Trends in RL Architectures."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "semester": "7th",
+      "branch": "CSE",
+      "subject_code": "CS-702(C)",
+      "subject_name": "Wireless & Mobile Computing",
+      "chapters": [
+        {
+          "buttonText": "Chapter 1",
+          "chapterId": 1,
+          "chapterNumber": "Unit 1",
+          "chapterName": "Review of traditional networks",
+          "description": "Review of LAN, MAN, WAN, Intranet, Internet, andinterconnectivity devices: bridges, Routers etc. Review of TCP/IP Protocol Architecture:ARP/RARP, IP addressing, IP Datagram format and its Delivery, Routing table format, ICMPMessages, Subnetting, Supernetting and CIDR, DNS. NAT: Private addressing and NAT, SNAT,DNAT, NAT and firewalls, VLANS: Concepts, Comparison with Real LANS, Type of VLAN, Tagging, IPV6: address structure, address space and header"
+        },
+        {
+          "buttonText": "Chapter 2",
+          "chapterId": 2,
+          "chapterNumber": "Unit 2",
+          "chapterName": "Study of traditional routing and transport",
+          "description": "Routing Protocols: BGP- Concept of hidden and autonomous system, An Exterior gateway protocol, Different messages of BGP. InteriorGateway protocol: RIP, OSPF. Multiplexing and ports, TCP: Segment format, Sockets,Synchronization, Three Way Hand Shaking, Variable window size and Flow control, Timeout and Retransmission algorithms, Connection Control, Silly window Syndrome. Example of TCP: Taho, Reno, Sack etc. UDP: Message Encapsulation, Format and Pseudo header."
+        },
+        {
+          "buttonText": "Chapter 3",
+          "chapterId": 3,
+          "chapterNumber": "Unit 3",
+          "chapterName": "Wireless LAN",
+          "description": "Transmission Medium For WLANs, MAC problems, Hidden and Exposed terminals, Near and Far terminals, Infrastructure and Ad hoc Networks, IEEE 802.11- System arch, Protocol arch, Physical layer, Concept of spread spectrum, MAC and its management, Power management, Security. Mobile IP: unsuitability of Traditional IP; Goals, Terminology, Agent advertisement and discovery, Registration, Tunneling techniques. Ad hoc network routing: Ad hoc Network routing v/s Traditional IP routing, types of routing protocols, Examples: OADV, DSDV, DSR, ZRP etc."
+        },
+        {
+          "buttonText": "Chapter 4",
+          "chapterId": 4,
+          "chapterNumber": "Unit 4",
+          "chapterName": "Mobile transport layer",
+          "description": "unsuitability of Traditional TCP; I-TCP, S-TCP, M-TCP. Wireless Cellular networks: Cellular system, Cellular networks v/s WLAN, GSM – Services, system architecture, Localization and calling, handover and Roaming."
+        },
+        {
+          "buttonText": "Chapter 5",
+          "chapterId": 5,
+          "chapterNumber": "Unit 5",
+          "chapterName": "Mobile Device Operating Systems",
+          "description": "Mobile Device Operating Systems: Special Constraints & Requirements, Commercial Mobile Operating Systems. Software Development Kit: iOS, Android etc.MCommerce : Structure , Pros &Cons, Mobile Payment System ,Security Issues"
+        }
+      ]
+    },
+    {
+        "id": 11,
+        "semester":"7th",
+        "branch":"CSE",
+        "subject_code": "CS-702(D)",
+        "subject_name": "Big Data",
         "chapters": [
             {
                 "buttonText": "Chapter 1",
                 "chapterId": 1,
                 "chapterNumber": "Unit 1",
-                "chapterName": "Introduction to Computers"
+                "chapterName": "Introduction to Big data",
+                "description": "Introduction to Big data, Big data characteristics, Types of big data, Traditional versus Big data, Evolution of Big data, challenges with Big Data, Technologies available for Big Data, Infrastructure for Big data, Use of Data Analytics, Desired properties of Big Data system."
             },
             {
                 "buttonText": "Chapter 2",
                 "chapterId": 2,
                 "chapterNumber": "Unit 2",
-                "chapterName": "Computer Arithmetic"
+                "chapterName": "Introduction to Hadoop",
+                "description": "Introduction to Hadoop, Core Hadoop components, Hadoop Eco system, Hive Physical Architecture, Hadoop limitations, RDBMS Versus Hadoop, Hadoop Distributed File system, Processing Data with Hadoop, Managing Resources and Application with Hadoop YARN, MapReduce programming."
             },
             {
                 "buttonText": "Chapter 3",
                 "chapterId": 3,
                 "chapterNumber": "Unit 3",
-                "chapterName": "Input-Output Devices"
+                "chapterName": "Introduction to Hive Hive Architecture",
+                "description": "Introduction to Hive Hive Architecture, Hive Data types, Hive Query Language, Introduction to Pig, Anatomy of Pig, Pig on Hadoop, Use Case for Pig, ETL Processing, Data types in Pig running Pig, Execution model of Pig, Operators, functions,Data types of Pig."
             },
             {
                 "buttonText": "Chapter 4",
                 "chapterId": 4,
                 "chapterNumber": "Unit 4",
-                "chapterName": "Computer Memory"
+                "chapterName": "Introduction to NoSQL",
+                "description": "Introduction to NoSQL, NoSQL Business Drivers, NoSQL Data architectural patterns, Variations of NOSQL architectural patterns using NoSQL to Manage Big Data, Introduction to MangoDB"
             },
             {
                 "buttonText": "Chapter 5",
                 "chapterId": 5,
                 "chapterNumber": "Unit 5",
-                "chapterName": "Computer Software"
+                "chapterName": "Mining social Network Graphs",
+                "description": "Mining social Network Graphs: Introduction Applications of social Network mining, Social Networks as a Graph, Types of social Networks, Clustering of social Graphs Direct Discovery of communities in a social graph, Introduction to recommender system. "
+            }
+        ]
+    },    
+    {
+        "id": 12,
+        "semester":"7th",
+        "branch":"CSE",
+        "subject_code": "CS-703(A)",
+        "subject_name": "Cryptography & Information Security",
+        "chapters": [
+            {
+                "buttonText": "Chapter 1",
+                "chapterId": 1,
+                "chapterNumber": "Unit 1",
+                "chapterName": "Mathematical Background for Cryptography",
+                "description": "Mathematical Background for Cryptography: Abstract Algebra, Number Theory, Modular Inverse, Extended Euclid Algorithm, Fermat's Little Theorem, Euler Phi-Function, Euler's theorem. Introduction to Cryptography: Principles of Cryptography, Classical Cryptosystem, Cryptanalysis on Substitution Cipher (Frequency Analysis), Play Fair Cipher, Block Cipher. Data Encryption Standard (DES), Triple DES, Modes of Operation, Stream Cipher."
+            },
+            {
+                "buttonText": "Chapter 2",
+                "chapterId": 2,
+                "chapterNumber": "Unit 2",
+                "chapterName": "Introduction to Public Key",
+                "description": "Advanced Encryption Standard (AES), Introduction to Public Key Cryptosystem, Discrete Logarithmic Problem, Diffie-Hellman Key Exchange Computational & Decisional Diffie-Hellman Problem, RSA Assumptions & Cryptosystem,RSA Signatures & Schnorr Identification Schemes, Primarily Testing, Elliptic Curve over the Reals, Elliptic curve Modulo a Prime., Chinese Remainder Theorem."
+            },
+            {
+                "buttonText": "Chapter 3",
+                "chapterId": 3,
+                "chapterNumber": "Unit 3",
+                "chapterName": "Key Management & Authentication",
+                "description": "Message Authentication, Digital Signature, Key Management, Key Exchange, Hash Function. Universal Hashing, Cryptographic Hash Function, MD, Secure Hash Algorithm (SHA), Digital Signature Standard (DSS), Cryptanalysis: Time-Memory Trade-off Attack, Differential Cryptanalysis. Secure channel and authentication system like Kerberos."
+            },
+            {
+                "buttonText": "Chapter 4",
+                "chapterId": 4,
+                "chapterNumber": "Unit 4",
+                "chapterName": "Information Security",
+                "description": "Threats in Networks, Network Security Controls–Architecture, Wireless Security, Honey pots, Traffic Flow Security, Firewalls – Design and Types of Firewalls, Personal Firewalls, IDS, Email Security: Services Security for Email Attacks Through Emails, Privacy-Authentication of Source Message, Pretty Good Privacy(PGP), S-MIME. IP Security: Overview of IPSec, IP& IP version 6 Authentication, Encapsulation Security Payload ESP, Internet Key Exchange IKE, Web Security: SSL/TLS, Basic protocols of security. Encoding –Secure Electronic Transaction SET."
+            },
+            {
+                "buttonText": "Chapter 5",
+                "chapterId": 5,
+                "chapterNumber": "Unit 5",
+                "chapterName": "Cryptography and Information Security Tools",
+                "description": "Cryptography and Information Security Tools: Spoofing tools: like Arping etc., Foot printing Tools (ex-nslookup, dig, Whois,etc..), Vulnerabilities Scanning Tools (i.e. Angry IP, HPing2, IP Scanner, Global Network Inventory Scanner, Net Tools Suite Pack.), NetBIOS Enumeration Using NetView Tool, Steganography Merge Streams, Image Hide, Stealth Files, Blindsideusing:STools, Steghide, Steganos.Stegdetect, Steganalysis - Stego Watch- Stego Detection Tool, StegSpy.Trojans Detection Tools( i.e. Netstat, fPort, TCPView, CurrPorts Tool, Process Viewer), Lan Scanner Tools (i.e.look@LAN, Wireshark, Tcpdump). DoS Attack Understanding Tools- Jolt2, Bubonic.c, Land and LaTierra, Targa, Nemesy Blast, Panther2, Crazy Pinger, Some Trouble, UDP Flood, FSMax."
             }
         ]
     },
     {
-        "id": 2,
-        "subject_code": "BT-102",
-        "subject_name": "Programming Fundamentals",
+        "id": 13,
+        "semester":"7th",
+        "branch":"CSE",
+        "subject_code": "CS-703(B)",
+        "subject_name": "Data Warehousing:",
         "chapters": [
             {
                 "buttonText": "Chapter 1",
                 "chapterId": 1,
                 "chapterNumber": "Unit 1",
-                "chapterName": "Introduction to C++"
+                "chapterName": "Data Warehousing",
+                "description": "Introduction, Delivery Process, Data warehouse Architecture, Data Preprocessing: Data cleaning, Data Integration and transformation, Data reduction. Data warehouse Design: Datawarehouse schema, Partitioning strategy Data warehouse Implementation, Data Marts, Meta Data, Example of a Multidimensional Data model. Introduction to Pattern Warehousing. "
             },
             {
                 "buttonText": "Chapter 2",
                 "chapterId": 2,
                 "chapterNumber": "Unit 2",
-                "chapterName": "Operators and Expressions"
+                "chapterName": "OLAP Systems",
+                "description": "OLAP Systems: Basic concepts, OLAP queries, Types of OLAP servers, OLAP operations etc. Data Warehouse Hardware and Operational Design: Security, Backup And Recovery, "
             },
             {
                 "buttonText": "Chapter 3",
                 "chapterId": 3,
                 "chapterNumber": "Unit 3",
-                "chapterName": "Control Structures"
+                "chapterName": "Introduction to Data& Data Mining",
+                "description": "Data Types, Quality of data, Data Preprocessing, Similarity measures, Summary statistics, Data distributions, Basic data mining tasks, Data Mining V/s knowledge discovery in databases. Issues in Data mining. Introduction to Fuzzy sets and fuzzy logic."
             },
             {
                 "buttonText": "Chapter 4",
                 "chapterId": 4,
                 "chapterNumber": "Unit 4",
-                "chapterName": "Functions"
+                "chapterName": "Supervised Learning",
+                "description": "Classification: Statistical-based algorithms, Distance-based algorithms, Decision tree-based algorithms, Neural network-based algorithms, Rule-based algorithms, Probabilistic Classifiers "
             },
             {
                 "buttonText": "Chapter 5",
                 "chapterId": 5,
                 "chapterNumber": "Unit 5",
-                "chapterName": "Arrays"
+                "chapterName": "Clustering & Association Rule mining",
+                "description": "Hierarchical algorithms, Partitional algorithms, Clustering large databases – BIRCH, DBSCAN, CURE algorithms.Association rules : Parallel and distributed algorithms such as Apriori and FP growth algorithms"
             }
         ]
     },
     {
-        "id": 3,
-        "subject_code": "BT-103",
-        "subject_name": "Data Structures",
+        "id": 14,
+        "semester":"7th",
+        "branch":"CSE",
+        "subject_code": "CS-703(C)",
+        "subject_name": "Agile Software Development",
         "chapters": [
             {
                 "buttonText": "Chapter 1",
                 "chapterId": 1,
                 "chapterNumber": "Unit 1",
-                "chapterName": "Introduction to Data Structures"
+                "chapterName": "Fundamentals of Agile Process",
+                "description": "Introduction and background, Agile Manifesto and Principles, Stakeholders and Challenges, Overview of Agile Development Models: Scrum, Extreme Programming, Feature Driven Development, Crystal, Kanban, and Lean Software Development."
             },
             {
                 "buttonText": "Chapter 2",
                 "chapterId": 2,
                 "chapterNumber": "Unit 2",
-                "chapterName": "Arrays"
+                "chapterName": "Agile Projects",
+                "description": "Agile Projects: Planning for Agile Teams: Scrum Teams, XP Teams, General Agile Teams, Team Distribution; Agile Project Lifecycles: Typical Agile Project Lifecycles, Phase Activities, Product Vision, Release Planning: Creating the Product Backlog, User Stories, Prioritizing and Estimating, Creating the Release Plan; Monitoring and Adapting: Managing Risks and Issues, Retrospectives."
             },
             {
                 "buttonText": "Chapter 3",
                 "chapterId": 3,
                 "chapterNumber": "Unit 3",
-                "chapterName": "Stacks"
+                "chapterName": "Introduction to Scrum",
+                "description": "Agile Scrum Framework, Scrum Artifacts, Meetings, Activities and Roles, Scrum Team Simulation, Scrum Planning Principles, Product and Release Planning, Sprinting: Planning, Execution, Review and Retrospective; User story definition and Characteristics, Acceptance tests and Verifying stories, Burn down chart, Daily scrum, Scrum Case Study"
             },
             {
                 "buttonText": "Chapter 4",
                 "chapterId": 4,
                 "chapterNumber": "Unit 4",
-                "chapterName": "Queues"
+                "chapterName": "Introduction to Extreme Programming",
+                "description": "XP Lifecycle, The XP Team, XP Concepts: Refactoring, Technical Debt, Timeboxing, Stories, Velocity; Adopting XP: Pre-requisites, Challenges Applying XP: Thinking- Pair Programming, Collaborating, Release, Planning, Development; XP Case Study. "
             },
             {
                 "buttonText": "Chapter 5",
                 "chapterId": 5,
                 "chapterNumber": "Unit 5",
-                "chapterName": "Linked Lists"
+                "chapterName": "Agile Software Design and Development",
+                "description": "Agile design practices, Role of design Principles, Need and significance of Refactoring, Refactoring Techniques, Continuous Integration, Automated build tools, Version control; Agility and Quality Assurance: Agile Interaction Design, Agile approach to Quality Assurance, Test Driven Development, Pair programming: Issues and Challenges."
             }
         ]
     },
     {
-        "id": 4,
-        "subject_code": "BT-104",
-        "subject_name": "Database Management Systems",
+        "id": 15,
+        "semester":"7th",
+        "branch":"CSE",
+        "subject_code": "CS-703(D)",
+        "subject_name": "",
         "chapters": [
             {
                 "buttonText": "Chapter 1",
                 "chapterId": 1,
                 "chapterNumber": "Unit 1",
-                "chapterName": "Introduction to DBMS"
+                "chapterName": "INTRODUCTION TO DISASTERS",
+                "description": "Disaster, Hazard, Vulnerability, Resilience, Risks – Disasters: Types of disasters - Earthquake, Landslide, Flood, Drought, Fire etc - Classification, Causes, Impacts including social, economic, political, environmental, health, psychosocial, etc.- Differential impacts- in terms of caste, class, gender, age, location, disability - Global trends in disasters: urban disasters,pandemics, complex emergencies, Climate change - Dos and Dont’s during various types of Disasters"
             },
             {
                 "buttonText": "Chapter 2",
                 "chapterId": 2,
                 "chapterNumber": "Unit 2",
-                "chapterName": "Relational Model"
+                "chapterName": "APPROACHES TO DISASTER RISK REDUCTION ",
+                "description": "Disaster cycle - Phases, Culture of safety, prevention, mitigation and preparedness community based DRR, Structural- nonstructural measures, Roles and responsibilities of- community, Panchayati Raj Institutions/Urban Local Bodies (PRIs/ULBs), States, Centre, and other stake-holders- Institutional Processess and Framework at State and Central Level- State Disaster Management Authority(SDMA) – Early Warning System – Advisories from Appropriate Agencies."
             },
             {
                 "buttonText": "Chapter 3",
                 "chapterId": 3,
                 "chapterNumber": "Unit 3",
-                "chapterName": "SQL"
+                "chapterName": "INTER-RELATIONSHIP BETWEEN DISASTERS AND DEVELOPMENT",
+                "description": "Factors affecting Vulnerabilities, differential impacts, impact of Development projects such as dams, embankments, changes in Land-use etc.- Climate Change Adaptation- IPCC Scenario and Scenarios in the context of India - Relevance of indigenous knowledge, appropriate technology and local resources"
             },
             {
                 "buttonText": "Chapter 4",
                 "chapterId": 4,
                 "chapterNumber": "Unit 4",
-                "chapterName": "Database Design"
+                "chapterName": "DISASTER RISK MANAGEMENTININDIA",
+                "description": "Hazard and Vulnerability profile of India, Components of Disaster Relief: Water, Food, Sanitation, Shelter, Health, Waste Management, Institutional arrangements (Mitigation) Response and Preparedness, Disaster Management Act and Policy - Other related policies, plans, programmes and legislation – Role of GIS and Information Technology Components in Preparedness, Risk Assessment, Response and Recovery Phases of Disaster – Disaster Damage Assessment"
             },
             {
                 "buttonText": "Chapter 5",
                 "chapterId": 5,
                 "chapterNumber": "Unit 5",
-                "chapterName": "Database Applications"
+                "chapterName": "DISASTER MANAGEMENT: APPLICATIONS AND CASE STUDIES AND FIELD WORKS",
+                "description": "Landslide Hazard Zonation: Case Studies, Earthquake Vulnerability Assessment of Buildings andInfrastructure: Case Studies, Drought Assessment: Case Studies, Coastal Flooding: Storm Surge Assessment, Floods: Fluvial and Pluvial Flooding: Case Studies; Forest Fire: Case Studies, Man Mad disasters: Case Studies, Space Based Inputs for Disaster Mitigation and Management and field work related to disastermanagement."
             }
         ]
     }
-]
+  ]
