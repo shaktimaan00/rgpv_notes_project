@@ -39,7 +39,7 @@ const SubjectBox = () => {
                             </div>
                             <Link
                                 href={{
-                                    pathname: '/PageDetails',
+                                    pathname: '/test',
                                     query: {
                                         subjectId: `${item.subject_id}`,
                                         subjectName: `${item.subject_name}`,
@@ -69,7 +69,7 @@ const SubjectBox = () => {
 
                             <Link
                                 href={{
-                                    pathname: '/PageDetails',
+                                    pathname: '/test',
                                     query: {
                                         subjectId: `${item.subject_id}`,
                                         subjectName: `${item.subject_name}`,

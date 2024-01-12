@@ -1,12 +1,13 @@
 import { promises as fs } from 'fs';
 import "../components/style.css";
 import FileDownload from "../components/FileDownload";
+import data from "../json/CSE.json";
 
 export default async function Page({ searchParams }) {
-  const jsonFile = searchParams.branch;
+  // const jsonFile = searchParams.branch;
   const SubjectId = searchParams.subjectId;
-  const file = await fs.readFile(process.cwd() + `/src/app/json/${jsonFile}.json`, 'utf8');
-  const data = JSON.parse(file);
+  // const file = await fs.readFile(process.cwd() + `/src/app/json/${jsonFile}.json`, 'utf8');
+  // const data = JSON.parse(file);
 
   const filteredData = data.find((item) => item.subject_code === SubjectId);
 
