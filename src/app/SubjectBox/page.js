@@ -42,7 +42,8 @@ const SubjectBox = () => {
                                     pathname: '/PageDetails',
                                     query: {
                                         subjectId: `${item.subject_id}`,
-                                        subjectName: `${item.subject_name}`
+                                        subjectName: `${item.subject_name}`,
+                                        branch: branch
                                     }
                                 }}
                             // as={'../PageDetails'}
@@ -71,7 +72,8 @@ const SubjectBox = () => {
                                     pathname: '/PageDetails',
                                     query: {
                                         subjectId: `${item.subject_id}`,
-                                        subjectName: `${item.subject_name}`
+                                        subjectName: `${item.subject_name}`,
+                                        branch: branch
                                     }
                                 }}
                             // as={'../PageDetails'}

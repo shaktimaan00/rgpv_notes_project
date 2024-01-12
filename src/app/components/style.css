@@ -232,6 +232,7 @@
     grid-template-columns: repeat(1, 1fr);
     gap: 0.5rem;
     padding: 3rem 120px;
+    text-transform: capitalize;
 }
 
 .pd-unit {
@@ -271,7 +272,7 @@
     font-size: 0.9rem;
     padding: 0.5rem 0;
     text-align: justify;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 
 .pd-unit:hover {
