@@ -4,27 +4,28 @@ import FileDownload from "../components/FileDownload";
 // import data from "../json/CSE.json";
 
 export default async function Page({ searchParams }) {
-  const jsonFile = searchParams.branch;
+  const jsonFile = (searchParams.branch).toLowerCase();
   const SubjectId = searchParams.subjectId;
 
   let file;
-  if(jsonFile === "CSE"){
-    file = await fs.readFile(process.cwd() + `/src/app/json/CSE.json`, 'utf8');
+  if(jsonFile === "cse"){
+    file = await fs.readFile(process.cwd() + '/src/app/json/cse_data.json', 'utf8');
   }
-  else if(jsonFile === "ECE"){
-    file = await fs.readFile(process.cwd() + `/src/app/json/ECE.json`, 'utf8');
+  else if(jsonFile === "ece"){
+    file = await fs.readFile(process.cwd() + '/src/app/json/ece_data.json', 'utf8');
   }
-  else if(jsonFile === "ME"){
-    file = await fs.readFile(process.cwd() + `/src/app/json/ME.json`, 'utf8');
+  else if(jsonFile === "me"){
+    file = await fs.readFile(process.cwd() + '/src/app/json/me_data.json', 'utf8');
   }
-  else if(jsonFile === "CIVIL"){
-    file = await fs.readFile(process.cwd() + `/src/app/json/CIVIL.json`, 'utf8');
+  else if(jsonFile === "civil"){
+    file = await fs.readFile(process.cwd() + '/src/app/json/civil_data.json', 'utf8');
   }
 
 
 
 
   // const file = await fs.readFile(process.cwd() + `/src/app/json/${jsonFile}.json`, 'utf8');
+  
   const data = JSON.parse(file);
 
   const filteredData = data.find((item) => item.subject_code === SubjectId);
