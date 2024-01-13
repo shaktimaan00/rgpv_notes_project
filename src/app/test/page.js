@@ -1,13 +1,31 @@
 import { promises as fs } from 'fs';
 import "../components/style.css";
 import FileDownload from "../components/FileDownload";
-import data from "../json/CSE.json";
+// import data from "../json/CSE.json";
 
 export default async function Page({ searchParams }) {
-  // const jsonFile = searchParams.branch;
+  const jsonFile = searchParams.branch;
   const SubjectId = searchParams.subjectId;
+
+  let file;
+  if(jsonFile === "CSE"){
+    file = await fs.readFile(process.cwd() + `/src/app/json/CSE.json`, 'utf8');
+  }
+  else if(jsonFile === "ECE"){
+    file = await fs.readFile(process.cwd() + `/src/app/json/ECE.json`, 'utf8');
+  }
+  else if(jsonFile === "ME"){
+    file = await fs.readFile(process.cwd() + `/src/app/json/ME.json`, 'utf8');
+  }
+  else if(jsonFile === "CIVIL"){
+    file = await fs.readFile(process.cwd() + `/src/app/json/CIVIL.json`, 'utf8');
+  }
+
+
+
+
   // const file = await fs.readFile(process.cwd() + `/src/app/json/${jsonFile}.json`, 'utf8');
-  // const data = JSON.parse(file);
+  const data = JSON.parse(file);
 
   const filteredData = data.find((item) => item.subject_code === SubjectId);
 
