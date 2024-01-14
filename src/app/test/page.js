@@ -1,31 +1,12 @@
 import { promises as fs } from 'fs';
 import "../components/style.css";
 import FileDownload from "../components/FileDownload";
-// import data from "../json/CSE.json";
+// import data from "../json/cse_data.json";
 
-export default async function Page({ searchParams }) {
-  const jsonFile = (searchParams.branch).toLowerCase();
-  const SubjectId = searchParams.subjectId;
-
-  let file;
-  if(jsonFile === "cse"){
-    file = await fs.readFile(process.cwd() + '/src/app/json/cse_data.json', 'utf8');
-  }
-  else if(jsonFile === "ece"){
-    file = await fs.readFile(process.cwd() + '/src/app/json/ece_data.json', 'utf8');
-  }
-  else if(jsonFile === "me"){
-    file = await fs.readFile(process.cwd() + '/src/app/json/me_data.json', 'utf8');
-  }
-  else if(jsonFile === "civil"){
-    file = await fs.readFile(process.cwd() + '/src/app/json/civil_data.json', 'utf8');
-  }
-
-
-
-
-  // const file = await fs.readFile(process.cwd() + `/src/app/json/${jsonFile}.json`, 'utf8');
-  
+export default async function Page() {
+  const jsonFile = 'cse_data';
+  const SubjectId = 'BT-101';
+  const file = await fs.readFile(process.cwd() + `/src/app/json/${jsonFile}.json`, 'utf8');
   const data = JSON.parse(file);
 
   const filteredData = data.find((item) => item.subject_code === SubjectId);
@@ -57,3 +38,48 @@ export default async function Page({ searchParams }) {
     </div>
   );
 }
+
+// {
+//     "id": 4,
+//     "semester":"1st",
+//     "branch":"CSE",
+//     "subject_code": "BT-106",
+//     "subject_name": "",
+//     "chapters": [
+//         {
+//             "buttonText": "Chapter 1",
+//             "chapterId": 1,
+//             "chapterNumber": "Unit 1",
+//             "chapterName": "",
+//             "description": ""
+//         },
+//         {
+//             "buttonText": "Chapter 2",
+//             "chapterId": 2,
+//             "chapterNumber": "Unit 2",
+//             "chapterName": "",
+//             "description": ""
+//         },
+//         {
+//             "buttonText": "Chapter 3",
+//             "chapterId": 3,
+//             "chapterNumber": "Unit 3",
+//             "chapterName": "",
+//             "description": ""
+//         },
+//         {
+//             "buttonText": "Chapter 4",
+//             "chapterId": 4,
+//             "chapterNumber": "Unit 4",
+//             "chapterName": "",
+//             "description": ""
+//         },
+//         {
+//             "buttonText": "Chapter 5",
+//             "chapterId": 5,
+//             "chapterNumber": "Unit 5",
+//             "chapterName": "",
+//             "description": ""
+//         }
+//     ]
+// }
