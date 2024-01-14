@@ -43,7 +43,7 @@ export default function Home() {
           </>
         )}
         
-          
+         <Link href="/test">go to test</Link> 
     </main>
   )
 }
