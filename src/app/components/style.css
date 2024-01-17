@@ -341,3 +341,23 @@
         font-size: 8vw;
     }
 }
+
+
+/* Spinner css */
+
+.spinner-main-container{
+    height: 85vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+
+/* not found container */
+
+.not-found-main-container{
+    height: 85vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    font-size: 2.5rem;
+}

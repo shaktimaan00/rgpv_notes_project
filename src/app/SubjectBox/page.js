@@ -21,13 +21,8 @@ const SubjectBox = () => {
         return <h1>No Data Found</h1>;
     }
 
-    // const handleClick = () => {
-    //     Router.back();
-    // }
-
     return (
         <div id='main-card'>
-            {/* <Button className='card-back-btn' variant='flat' color='danger' onClick={handleClick}><p>&lt; Back</p></Button> */}
             <div id='semi-main-card-2'>
                 <h1 id='title1'>{filteredData.sem[0].first}</h1>
                 {filteredData.subjects1.map((item) => (
@@ -39,14 +34,13 @@ const SubjectBox = () => {
                             </div>
                             <Link
                                 href={{
-                                    pathname: '/test',
+                                    pathname: '/PageDetails',
                                     query: {
                                         subjectId: `${item.subject_id}`,
                                         subjectName: `${item.subject_name}`,
                                         branch: branch
                                     }
                                 }}
-                            // as={'../PageDetails'}
                             >
                                 <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
                                     Click for Notes..
@@ -76,7 +70,6 @@ const SubjectBox = () => {
                                         branch: branch
                                     }
                                 }}
-                            // as={'../PageDetails'}
                             >
                                 <Button className=" card-notes-btn text-white bg-black/20" variant="ghost" color="default" radius="md" size="md">
                                     Click for Notes..
