@@ -32,6 +32,13 @@
     padding: 5rem 0 3rem 0;
 }
 
+.semester-image{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
 @media only screen and (max-width: 550px) {
     .semester-main-container {
         grid-template-columns: 1fr;

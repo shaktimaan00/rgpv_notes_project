@@ -1,31 +1,34 @@
 'use client'
 // components/SelectYear.js
 import React from 'react';
-import { Button, Image } from "@nextui-org/react";
+import { Button } from "@nextui-org/react";
 import { useState } from 'react';
+import Image from 'next/image';
+import DogCivil from '/public/doge-civil.png';
 import "./style.css"
+import { Donegal_One } from 'next/font/google';
 
 const SelectBranch = ({ onSelectBranch }) => {
     const branches = [
         {
             branch: "CSE",
             year_letter: "Computer Science",
-            src: "./images/doge-civil.png"
+            src: DogCivil
         },
         {
             branch: "ECE",
-            year_letter: "Electronics and Comm.",
-            src: "./images/doge-civil.png"
+            year_letter: "ECE",
+            src: DogCivil
         },
         {
             branch: "ME",
             year_letter: "Mechanical",
-            src: "./images/doge-civil.png"
+            src: DogCivil
         },
         {
             branch: "CIVIL",
             year_letter: "Civil",
-            src: "./images/doge-civil.png"
+            src: DogCivil
         }
     ];
 
@@ -53,7 +56,8 @@ const SelectBranch = ({ onSelectBranch }) => {
                     onClick={()=>handleBranchClick(branch.branch)}
                     >
                         <p>{branch.year_letter}</p>
-                    </Button>
+                        {/* <Image src={branch.src} className='semester-image' alt='doge' width={40} height={40} /> */}
+                    </Button>       
                 ))}
             </div>
             </main>
