@@ -1408,7 +1408,7 @@
     "id": 32,
     "semester": "3rd",
     "branch": "CSE",
-    "subject_code": "BT-303",
+    "subject_code": "CS-303",
     "subject_name": "Data Structure",
     "chapters": [
       {
@@ -2105,6 +2105,344 @@
         "chapterNumber": "Unit 5",
         "chapterName": "SELECT",
         "description": " SQL queries, Data extraction from single, multiple tables equi-join, non equi-join, self-join, outer join. Usage of like, any, all, exists, in Special operators. Hierarchical queries, inline queries, flashback queries. Introduction of ANSI SQL, anonymous block, nested anonymous block, branching and looping constructs in ANSI SQL."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-601",
+    "subject_name": "Machine Learning",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "",
+        "description": "Introduction to machine learning, scope and limitations, regression, probability, statistics and linear algebra for machine learning, convex optimization, data visualization, hypothesis function and testing, data distributions, data preprocessing, data augmentation, normalizing data sets, machine learning models, supervised and unsupervised learning. "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "",
+        "description": "Linearity vs non linearity, activation functions like sigmoid, ReLU, etc., weights and bias, loss function, gradient descent, multilayer network, backpropagation, weight initialization, training, testing, unstable gradient problem, auto encoders, batch normalization, dropout, L1 and L2 regularization, momentum, tuning hyper parameters."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "",
+        "description": "Convolutional neural network, flattening, subsampling, padding, stride, convolution layer, pooling layer, loss layer, dance layer 1x1 convolution, inception network, input channels, transfer learning, one shot learning, dimension reductions, implementation of CNN like tensor flow, keras etc."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "",
+        "description": "Recurrent neural network, Long short-term memory, gated recurrent unit, translation, beam search and width, Bleu score, attention model, Reinforcement Learning, RL-framework, MDP, Bellman equations, Value Iteration and Policy Iteration, , Actor-critic model, Q-learning, SARSA "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "",
+        "description": "Support Vector Machines, Bayesian learning, application of machine learning in computer vision, speech processing, natural language processing etc, Case Study: ImageNet Competition."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-602",
+    "subject_name": "Computer Networks",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Computer Network",
+        "description": "Definitions, goals, components, Architecture, Classifications & Types. Layered Architecture: Protocol hierarchy, Design Issues, Interfaces and Services, Connection Oriented & Connectionless Services, Service primitives, Design issues & its functionality. ISOOSI Reference Model: Principle, Model, Descriptions of various layers and its comparison with TCP/IP. Principals of physical layer: Media, Bandwidth, Data rate and Modulations."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Data Link Layer",
+        "description": "Need, Services Provided, Framing, Flow Control, Error control. Data Link Layer Protocol: Elementary &Sliding Window protocol: 1-bit, Go-Back-N, Selective Repeat, Hybrid ARQ. Protocol verification: Finite State Machine Models & Petri net models. ARP/RARP/GARP "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "MAC Sub layer",
+        "description": " MAC Addressing, Binary Exponential Back-off (BEB) Algorithm, Distributed Random Access Schemes/Contention Schemes: for Data Services (ALOHA and SlottedALOHA), for Local-Area Networks (CSMA, CSMA/CD, CSMA/CA), Collision Free Protocols: Basic Bit Map, BRAP, Binary Count Down, MLMA Limited Contention Protocols: Adaptive Tree Walk, Performance Measuring Metrics. IEEE Standards 802 series & their variant "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Network Layer",
+        "description": "Need, Services Provided , Design issues, Routing algorithms: Least Cost Routing algorithm, Dijkstra's algorithm, Bellman-ford algorithm, Hierarchical Routing, Broadcast Routing, Multicast Routing. IP Addresses, Header format, Packet forwarding, Fragmentation and reassembly, ICMP, Comparative study of IPv4 & IPv6  "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Transport Layer",
+        "description": "Design Issues, UDP: Header Format, Per-Segment Checksum, Carrying Unicast/Multicast Real-Time Traffic, TCP: Connection Management, Reliability of Data Transfers, TCP Flow Control, TCP Congestion Control, TCP Header Format, TCP Timer Management.Application Layer: WWW and HTTP, FTP, SSH, Email (SMTP, MIME, IMAP), DNS, Network Management (SNMP). "
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-603(A)",
+    "subject_name": "Advanced Computer Architecture (ACA)",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "",
+        "description": "Flynn’s Classification, System Attributes to Performance, Parallel computer models - Multiprocessors and multicomputers, Multivector and SIMD Computers. Data and resource dependences, Hardware and software parallelism, Program partitioning and scheduling, Grain size and latency, Control flow, data flow and Demand driven mechanisms. Static interconnection networks, Dynamic interconnection Networks: Bus Systems, Crossbar Switch, Multiport Memory, Multistage and Combining Networks "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "",
+        "description": "Instruction set architecture, CISC Scalar Processors , RISC Scalar Processors, VLIWarchitecture, Memory Hierarchy, Inclusion, Coherence and Locality, Memory capacity planning.Interleaved memory organization-memory interleaving, pipelined memory access, Bandwidthand Fault Tolerance. Backplane Bus System :Backplane bus specification, Addressing andtiming protocols, Arbitration transaction and interrupt."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "",
+        "description": "Linear pipeline processor, Nonlinear pipeline processor, Instruction pipeline design, Mechanisms for instruction pipelining, pipeline hazards, Dynamic instruction scheduling -score boarding and Tomosulo’s algorithm, Branch handling techniques, Arithmetic Pipeline Design, Static arithmetic pipeline, Multifunctional arithmetic pipelines. Superscalar pipeline design, Super pipeline processor design. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "",
+        "description": "Cache coherence, Snoopy protocols, Directory based protocols. Message routing schemes in multicomputer network, deadlock and virtual channel. Vector Processing Principles, Vector instruction types, Vector-access memory schemes. Vector supercomputer architecture, SIMD organization: distributed memory model and shared memory model. Principles of Multithreading: Multithreading Issues and Solutions, Multiple-Context Processors "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "",
+        "description": "Parallel Programming Models, Shared-Variable Model, Message-Passing Model, Data-Parallel Model, Object-Oriented Model, Functional and Logic Models, Parallel Languages and Compilers, Language Features for Parallelism, Parallel Programming Environment, Software Tools and Environments."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-603(B)",
+    "subject_name": "Computer Graphics & Visualization",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "",
+        "description": "Introduction to Raster Scan displays, Pixels, Frame buffer, Vector & Character generation, Random Scan systems, Display devices, Scan Conversion techniques, Line Drawing algorithms: simple DDA, Bresenham’s Algorithm, Circle Drawing Algorithms: Midpoint Circle drawing and Bresenham’s Algorithm, Polygon fill algorithm: Boundary-fill and Flood-fill algorithms."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "2-D Transformation",
+        "description": "Translation, Rotation, Scaling, Shearing, Reflection. Inverse Transformation, Homogeneous coordinate system, Matrices Transformation, Composite Transformation. Windowing & Clipping: World Coordinate System, Screen Coordinate System, Viewing Transformation, Line Clipping & Polygon Clipping Algorithms  "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "3-D Transformations:",
+        "description": "Translation, Rotation and Scaling. Parallel & Perspective Projection: Types of Parallel & Perspective Projection, Hidden Surface elimination: Depth comparison, Back face detection algorithm, Painter’s Algorithm, Z-Buffer Algorithm. Curve generation, Bezier and B-spline methods. Basic Illumination Model: Diffuse reflection, Specular reflection, Phong Shading, Gouraud shading, Ray Tracing, Color models like RGB, YIQ, CMY, HSV."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Visualization",
+        "description": "Visualization of 2D/3D scalar fields: color mapping, ISO surfaces. Direct volume data rendering: ray-casting, transfer functions, segmentation. Visualization of Vector fields and flow data, Time-varying data, High-dimensional data: dimension reduction, parallel coordinates, Non-spatial data: multi-variate, tree/graph structured, text Perceptual and cognitive foundations, Evaluation of visualization methods, Applications of visualization, Basic Animation Techniques like traditional, key framing. "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "",
+        "description": "Multimedia :Basic of multimedia, application of Multimedia, Text-Types, Unicode Standard ,text Compression, Text file formats, Audio Components, Digital Audio, Digital Audio processing, Sound cards, Audio file formats ,Audio Processing software ,Video-Video color spaces, Digital Video, Digital Video processing, Video file formats. Animation: Uses of Animation, Principles of Animation, Computer based animation, 3D Animation, Animation file formats, Animation software,Special Effects in animation, Storyboarding for Animation, Compression: Lossless/Lossy Compression techniques, Image, Audio & Video Compression, MPEG Standards ,Multimedia Architecture, Multimedia databases. "
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-603(C)",
+    "subject_name": "Compiler Design",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction to compiling & Lexical Analysis",
+        "description": "Introduction of Compiler, Major data Structure in compiler, types of Compiler, Front-end and Back-end of compiler, Compiler structure: analysis-synthesis model of compilation, various phases of a compiler, Lexical analysis: Input buffering , Specification & Recognition of Tokens,Design of a Lexical Analyzer Generator, LEX."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": " Syntax Analysis &Syntax Directed Translation",
+        "description": "Syntax analysis: CFGs, Top down parsing, Brute force approach, recursive descent parsing, transformation on the grammars, predictive parsing, bottom up parsing, operator precedence parsing, LR parsers (SLR,LALR, LR),Parser generation. Syntax directed definitions: Construction of Syntax trees, Bottom up evaluation of S-attributed definition, L-attribute definition, Top down translation, Bottom Up evaluation of inherited attributes Recursive Evaluation, Analysis of Syntax directed definition. "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Type Checking & Run Time Environment",
+        "description": "Type checking: type system, specification of simple type checker, equivalence of expression, types, type conversion, overloading of functions and operations, polymorphic functions. Run time Environment: storage organization, Storage allocation strategies, parameter passing, dynamic storage allocation , Symbol table, Error Detection & Recovery, Ad-Hoc and Systematic Methods. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Code Generation",
+        "description": "Intermediate code generation: Declarations, Assignment statements, Boolean expressions, Case statements, Back patching, Procedure calls Code Generation: Issues in the design of code generator, Basic block and flow graphs, Register allocation and assignment, DAG representation of basic blocks, peephole optimization, generating code from DAG. "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Code Optimization",
+        "description": "Introduction to Code optimization: sources of optimization of basic blocks, loops in flow graphs, dead code elimination, loop optimization, Introduction to global data flow analysis, Code Improving transformations ,Data flow analysis of structure flow graph Symbolic debugging of optimized code. "
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-604(A)",
+    "subject_name": "Knowledge Management",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": " INTRODUCTION",
+        "description": "Introduction: An Introduction to Knowledge Management – The foundations of knowledge management- including cultural issues- technology applications organizational concepts and processes- management aspects- and decision support systems. The Evolution of Knowledge management: From Information Management to Knowledge Management – Key Challenges Facing the Evolution of Knowledge Management – Ethics for Knowledge Management. "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "CREATING THE CULTURE OF LEARNING AND KNOWLEDGE SHARING",
+        "description": "Organization and Knowledge Management – Building the Learning Organization. Knowledge Markets: Cooperation among Distributed Technical Specialists – Tacit Knowledge and Quality Assurance."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "KNOWLEDGE MANAGEMENT-THE TOOLS",
+        "description": "Telecommunications and Networks in Knowledge Management – Internet Search Engines and Knowledge Management – Information Technology in Support of Knowledge Management – Knowledge Management and Vocabulary Control – Information Mapping in Information Retrieval – Information Coding in the Internet Environment – Repackaging Information "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "KNOWLEDGE MANAGEMENT-APPLICATION",
+        "description": "Components of a Knowledge Strategy – Case Studies (From Library to Knowledge Center, Knowledge Management in the Health Sciences, Knowledge Management in Developing Countries). "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "FUTURE TRENDS AND CASE STUDIES ",
+        "description": "Advanced topics and case studies in knowledge management – Development of a knowledge management map/plan that is integrated with an organization’s strategic and business plan – A case study on Corporate Memories for supporting various aspects in the process life -cycles of an organization. "
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-604(B)",
+    "subject_name": "Project Management",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Conventional Software Management. ",
+        "description": "Evolution of software economics. Improving software economics: reducing product size, software processes, team effectiveness, automation through software environments. Principles of modern software management.  "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": " Software Management Process ",
+        "description": "Framework,: Life cycle phases- inception, elaboration, construction and training phase. Artifacts of the process- the artifact sets, management artifacts, engineering artifacts, pragmatics artifacts. Model based software architectures. Workflows of the process. Checkpoints of the process.  "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Software Management Disciplines",
+        "description": "Iterative process planning. Project organisations and responsibilities. Process automation. Project control And process instrumentation- core metrics, management indicators, life cycle expections. Process discriminants. "
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "semester": "6th",
+    "branch": "CSE",
+    "subject_code": "CS-604(C)",
+    "subject_name": "Rural Technology & Community Development",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Rural Management",
+        "description": "Principles and Practices Introduction to Management and Theory of Management B. Planning, Organisation Structure and Design C. Motivation and Leadership D. Management Control and Managerial Decision Making  "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Human Resource Management for rural India",
+        "description": "Nature, Scope of Human Resource Management. F. Human Resource Planning, Recruitment and Selection, Training and Development, Performance Appraisal G. Welfare programme and Fringe benefits, Wage and Salary Administration H. Morale and Productivity, Industrial Relations and Industrial Disputes. "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Management of Rural Financing",
+        "description": "Rural Credit System, Role of Rural Credit in Rural Development. Evolution and Growth of Rural Credit System in India. B: Agricultural Credit, Agricultural Credit Review Committee, Report of different Committees and Commissions, Problems and Prospects. C: Rural Credit to Non-farm Sector, Credit for small and marginal entrepreneurs. D: Role of Government Institutions towards facilitating Rural Credit. Role of Non- Government/ Semi Government / Quasi- Government Institutions. Growth and Present trend of Rural Financing towards Small scale and Cottage Industries. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Research Methodology",
+        "description": "Concept of Social Research, Traditional Research, Action Research and Participatory Research B: Qualitative Data Construction and Methods of Data Collection C: Techniques of Interview D: Qualitative methods: Sociometry, Case Studies, observation, coding and content analysis "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Research Methodology",
+        "description": "Collection, Tabulation and Presentation of data B: Measures of Central Tendency, Dispersion, Moments, Skewness and Kurtosis, Correlation and Regression: Sampling Theory and Test of Significance."
       }
     ]
   }
