@@ -27,14 +27,25 @@ const RetrieveData = ({ subjectId }) => {
     };
 
     handleDatabase();
+    // console.log(data)
   }, []);
 
   useEffect(() => {
-    if (data) {
-      const filtered = Object.values(data).find((item) => item.subject_code === subjectId);
-      setFilteredData(filtered);
-      setLoading(false); // Set loading to false once data is available
-    }
+    const updateFilteredData = () => {
+      if (data) {
+        const subjectData = data.find((item) => item.subject_code === subjectId);
+
+        if (subjectData) {
+          setFilteredData(subjectData);
+          setLoading(false);
+        } else {
+          setFilteredData(null);
+          setLoading(false);
+        }
+      }
+    };
+
+    requestAnimationFrame(updateFilteredData);
   }, [data, subjectId]);
 
   if (loading) {

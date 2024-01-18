@@ -1095,5 +1095,1017 @@
         "description": "Measurement and evaluation of the benefits of innovation for business (financial and nonfinancial metrics, their combination and choice). Barriers to innovation in business, innovation failure and its causes, post-audits of innovative projects. Organization and facilitation of an innovation workshop."
       }
     ]
+  },
+  {
+    "id": 25,
+    "semester": "2nd",
+    "branch": "CSE",
+    "subject_code": "CS-201",
+    "subject_name": "Engineering Physics",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Wave nature of particles and the Schrodinger equation",
+        "description": "Introduction to Quantum mechanics, Wave nature of Particles, operators ,Time-dependent and timeindependent Schrodinger equation for wavefunction, Application: Particle in a One dimensional Box, Born interpretation, Free-particle wavefunction and wave-packets, vg and vp relation Uncertainty principle."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Wave optics",
+        "description": "Huygens’ principle, superposition of waves and interference of light by wave front splitting and amplitude splitting; Young’s double slit experiment, Newton’s rings, Michelson interferometer, MachZehnder interferometer. Farunhofer diffraction from a single slit and a circular aperture, the Rayleigh criterion for limit of resolution and its application to vision; Diffraction gratings and their resolving power"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Introduction to solids",
+        "description": "Free electron theory of metals, Fermi level of Intrinsic and extrinsic, density of states, Bloch’s theorem for particles in a periodic potential, Kronig-Penney model(no derivation) and origin of energy bands. V-I characteristics of PN junction, Zener diode, Solar Cell, Hall Effec ."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Lasers",
+        "description": "Einstein’s theory of matter radiation interaction and A and B coefficients; amplification of light by population inversion, different types of lasers: gas lasers ( He-Ne, CO2), solid-state lasers(ruby, Neodymium),Properties of laser beams: mono-chromaticity, coherence, directionality and brightness, laser speckles, applications of lasers in science, engineering and medicine. Introduction to Optical fiber, acceptance angle and cone, Numerical aperture, V number, attenuation."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Electrostatics in vacuum ",
+        "description": "Calculation of electric field and electrostatic potential for a charge distribution; Electric displacement,Basic Introduction to Dielectrics, Gradient, Divergence and curl,Stokes’ theorem, Gauss Theorem, Continuity equation for current densities; Maxwell’s equation in vacuum and non-conducting medium; Poynting vector"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "semester": "2nd",
+    "branch": "CSE",
+    "subject_code": "CS-202",
+    "subject_name": "MATHEMATICS-II",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Ordinary Differential Equations I",
+        "description": "Differential Equations of First Order and First Degree (Leibnitz linear, Bernoulli’s, Exact), Differential Equations of First Order and Higher Degree, Higher order differential equations with constants coefficients, Homogeneous Linear Differential equations, Simultaneous Differential Equations."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Ordinary differential Equations II",
+        "description": "Second order linear differential equations with variable coefficients, Method of variation of parameters, Power series solutions; Legendre polynomials, Bessel functions of the first kind and their properties."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Partial Differential Equations",
+        "description": "Formulation of Partial Differential equations, Linear and Non-Linear Partial Differential Equations, Homogeneous Linear Partial Differential Equations with Constants Coefficients"
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Functions of Complex Variable",
+        "description": "Functions of Complex Variables: Analytic Functions, Harmonic Conjugate, Cauchy-Riemann Equations (without proof), Line Integral, Cauchy-Goursat theorem (without proof), Cauchy Integral formula (without proof), Singular Points, Poles & Residues, Residue Theorem, Application of Residues theorem for Evaluation of Real Integral (Unit Circle)."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Vector Calculus",
+        "description": "Differentiation of Vectors, Scalar and vector point function, Gradient, Geometrical meaning of gradient, Directional Derivative, Divergence and Curl, Line Integral, Surface Integral and Volume Integral, Gauss Divergence, Stokes and Green theorems. "
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "semester": "2nd",
+    "branch": "CSE",
+    "subject_code": "CS-203",
+    "subject_name": "Basic Mechanical Engineering",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Materials",
+        "description": "Classification of engineering material, Composition of Cast iron and Carbon steels, Iron Carbon diagram. Alloy steels their applications. Mechanical properties like strength, hardness, toughness , ductility, brittleness , malleability etc. of materials , Tensile test- Stress-strain diagram of ductile and brittle materials ,Hooks law and modulus of elasticity, Hardness and Impact testing of materials, BHN etc."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Measurement",
+        "description": "Concept of measurements, errors in measurement, Temperature, Pressure, Velocity, Flow strain, Force and torque measurement, Vernier caliper, Micrometer, Dial gauge, Slip gauge, Sine-bar and Combination set. Production Engineering: Elementary theoretical aspects of production processes like casting, carpentry, welding etc Introduction to Lathe and Drilling machines and their various operations."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Fluids",
+        "description": "Fluid properties pressure, density and viscosity etc. Types of fluids , Newton’s law of viscosity , Pascal’s law , Bernoulli’s equation for incompressible fluids, Only working principle of Hydraulic machines, pumps, turbines, Reciprocating pumps"
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Thermodynamics",
+        "description": "Thermodynamic system, properties, state, process, Zeroth, First and second law of thermodynamics, thermodynamic processes at constant pressure, volume, enthalpy & entropy."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Reciprocating Machines",
+        "description": "Working principle of steam Engine, Carnot, Otto, Diesel and Dual cycles P-V & T-S diagrams and its efficiency, working of Two stroke & Four stroke Petrol & Diesel engines. Working principle of compressor."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "semester": "2nd",
+    "branch": "CSE",
+    "subject_code": "CS-204",
+    "subject_name": "Basic Civil Engineering & Mechanics",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Building Materials & Construction",
+        "description": "Stones, bricks, cement, lime, timber-types, properties, test & uses, laboratory tests concrete and mortar Materials: Workability, Strength properties of Concrete, Nominal proportion of Concrete preparation of concrete, compaction, curing. Elements of Building Construction, Foundations conventional spread footings, RCC footings, brick masonry walls, plastering and pointing, floors, roofs, Doors, windows, lintels, staircases – types and their suitability"
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Surveying & Positioning",
+        "description": "Introduction to surveying Instruments – levels, thedolites, plane tables and related devices. Electronic surveying instruments etc. Measurement of distances – conventional and EDM methods, measurement of directions by different methods, measurement of elevations by different methods. Reciprocal leveling. "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Mapping & sensing",
+        "description": "Mapping details and contouring, Profile Cross sectioning and measurement of areas, volumes, application of measurements in quantity computations, Survey stations, Introduction of remote sensing and its applications. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Engineering Mechanics",
+        "description": "Forces and Equilibrium: Graphical and Analytical Treatment of Concurrent and nonconcurrent Co- planner forces, free Diagram, Force Diagram and Bow’s notations, Application of Equilibrium Concepts: Analysis of plane Trusses: Method of joints, Method of Sections. Frictional force in equilibrium problems"
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Centre of Gravity and moment of Inertia",
+        "description": "Centroid and Centre of Gravity, Moment Inertia of Area and Mass, Radius of Gyration, Introduction to product of Inertia and Principle Axes. Support Reactions, Shear force and bending moment Diagram for Cantilever & simply supported beam with concentrated, distributed load and Couple."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "semester": "2nd",
+    "branch": "CSE",
+    "subject_code": "CS-205",
+    "subject_name": "Basic Computer Engineering",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Computer",
+        "description": "Definition, Classification, Organization i.e. CPU, register, Bus architecture, Instruction set, Memory & Storage Systems, I/O Devices, and System & Application Software. Computer Application in eBusiness, Bio-Informatics, health Care, Remote Sensing & GIS, Meteorology and Climatology, Computer Gaming, Multimedia and Animation etc. Operating System: Definition, Function, Types, Management of File, Process & Memory. Introdcution to MS word, MS powerpoint, MS Excel"
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Introduction to Algorithms",
+        "description": "Introduction to Algorithms, Complexities and Flowchart, Introduction to Programming, Categories of Programming Languages, Program Design, Programming Paradigms, Characteristics or Concepts of OOP, Procedure Oriented Programming VS object oriented Programming. Introduction to C++: Character Set, Tokens, Precedence and Associativity, Program Structure, Data Types, Variables, Operators, Expressions, Statements and control structures, I/O operations, Array, Functions,"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Object & Classes",
+        "description": "Object & Classes, Scope Resolution Operator, Constructors & Destructors, Friend Functions, Inheritance, Polymorphism, Overloading Functions & Operators, Types of Inheritance, Virtual functions. Introduction to Data Structures."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Computer Networking",
+        "description": "Introduction, Goals, ISO-OSI Model, Functions of Different Layers. Internetworking Concepts, Devices, TCP/IP Model. Introduction to Internet, World Wide Web, E-commerce Computer Security Basics: Introduction to viruses, worms, malware, Trojans, Spyware and Anti-Spyware Software, Different types of attacks like Money Laundering, Information Theft, Cyber Pornography, Email spoofing, Denial of Service (DoS), Cyber Stalking, ,Logic bombs, Hacking Spamming, Cyber Defamation , pharming Security measures Firewall, Computer Ethics & Good Practices, Introduction of Cyber Laws about Internet Fraud, Good Computer Security Habits,"
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Data base Management System",
+        "description": "Introduction, File oriented approach and Database approach, Data Models, Architecture of Database System, Data independence, Data dictionary, DBA, Primary Key, Data definition language and Manipulation Languages. Cloud computing: definition, cloud infrastructure, cloud segments or service delivery models (IaaS, PaaS and SaaS), cloud deployment models/ types of cloud (public, private, community and hybrid clouds), Pros and Cons of cloud computing "
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "semester": "3rd",
+    "branch": "CSE",
+    "subject_code": "ES-301",
+    "subject_name": "Energy & Environmental Engineering",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction to Energy Science",
+        "description": "Introduction to energy systems and resources; Introduction to Energy, sustainability & the environment; Overview of energy systems, sources, transformations, efficiency, and storage; Fossil fuels (coal, oil, oil-bearing shale and sands, coal gasification) - past, present & future, Remedies & alternatives for fossil fuels - biomass, wind, solar, nuclear, wave, tidal and hydrogen; Sustainability and environmental trade-offs of different energy systems; possibilities for energy storage or regeneration (Ex. Pumped storage hydro power projects, superconductor-based energy storages, high efficiency batteries)"
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Ecosystems",
+        "description": "Concept of an ecosystem; Structure and function of an ecosystem; Producers, consumers and decomposers; Energy flow in the ecosystem; Ecological succession; Food chains, food webs and ecological pyramids; Introduction, types, characteristic features, structure and function of the following ecosystem (a.)Forest ecosystem (b) Grassland ecosystem (c) Desert ecosystem (d) Aquatic ecosystems (ponds, streams, lakes, rivers, oceans, estuaries)"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Biodiversity and its conservation",
+        "description": "Introduction – Definition: genetic, species and ecosystem diversity; Biogeographical classification of India; Value of biodiversity: consumptive use, productive use, social, ethical, aesthetic and option values; Biodiversity at global, National and local levels; India as a mega-diversity nation; Hot-sports of biodiversity; Threats to biodiversity: habitat loss, poaching of wildlife, man-wildlife conflicts; Endangered and endemic species of India; Conservation of biodiversity: In-situ and Ex-situ conservation of biodiversity"
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Environmental Pollution",
+        "description": "Definition, Cause, effects and control measures of Air pollution, Water pollution, Soil pollution, Marine pollution, Noise pollution, Thermal pollution, Nuclear hazards; Solid waste Management: Causes, effects and control measures of urban and industrial wastes; Role of an individual in prevention of pollution; Pollution case studies; Disaster management: floods, earthquake, cyclone and landslides."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Social Issues and the Environment",
+        "description": "From Unsustainable to Sustainable development; Urban problems related to energy; Water conservation, rain water harvesting, watershed management; Resettlement and rehabilitation of people; its problems and concerns. Case StudiesEnvironmental ethics: Issues and possible solutions. Climate change, globalwarming, acid rain, ozone layer depletion, nuclear accidents and holocaust. CaseStudies Wasteland reclamation; Consumerism and waste products; EnvironmentProtection Act; Air (Prevention and Control of Pollution) Act; Water(Prevention and control of Pollution) Act; Wildlife Protection Act; ForestConservation Act; Issues involved in enforcement of environmental legislation;Public awareness."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "semester": "1st",
+    "branch": "CSE",
+    "subject_code": "CS-302",
+    "subject_name": "Discrete Structure",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Set Theory",
+        "description": "Set Theory, Relation, Function, Theorem Proving Techniques : Set Theory: Definition of sets, countable and uncountable sets, Venn Diagrams, proofs of some general identities on sets Relation: Definition, types of relation, composition of relations, Pictorial representation of relation, Equivalence relation, Partial ordering relation, Job-Scheduling problem Function: Definition, type of functions, one to one, into and onto function, inverse function, composition of functions, recursively defined functions, pigeonhole principle. Theorem proving Techniques: Mathematical induction, Proof by contradiction."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Algebraic Structures",
+        "description": "Definition, Properties, types: Semi Groups, Monoid, Groups, Abelian group, properties of groups, Subgroup, cyclic groups, Cosets, factor group, Permutation groups, Normal subgroup, Homomorphism and isomorphism of Groups, example and standard results, Rings and Fields: definition and standard results"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Propositional Logic",
+        "description": "Proposition, First order logic, Basic logical operation, truth tables, tautologies, Contradictions, Algebra of Proposition, logical implications, logical equivalence, predicates, Normal Forms, Universal and existential quantifiers. Introduction to finite state machine Finite state machines as models of physical system equivalence machines, Finite state machines as language recognizers"
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Graph Theory",
+        "description": "Introduction and basic terminology of graphs, Planer graphs, Multigraphs and weighted graphs, Isomorphic graphs, Paths, Cycles and connectivity, Shortest path in weighted graph, Introduction to Eulerian paths and circuits, Hamiltonian paths and circuits, Graph coloring, chromatic number, Isomorphism and Homomorphism of graphs."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Posets, Hasse Diagram and Lattices",
+        "description": "Introduction, ordered set, Hasse diagram of partially, ordered set, isomorphic ordered set, well ordered set, properties of Lattices, bounded and complemented lattices. Combinatorics: Introduction, Permutation and combination, Binomial Theorem, Multimonial Coefficients Recurrence Relation and Generating Function: Introduction to Recurrence Relation and Recursive algorithms , Linear recurrence relations with constant coefficients, Homogeneous solutions, Particular solutions, Total solutions , Generating functions , Solution by method of generating functions."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "semester": "3rd",
+    "branch": "CSE",
+    "subject_code": "BT-303",
+    "subject_name": "Data Structure",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Review of C programming language",
+        "description": "Introduction to Data Structure: Concepts of Data and Information, Classification of Data structures, Abstract Data Types, Implementation aspects: Memory representation. Data structures operations and its cost estimation. Introduction to linear data structures- Arrays, Linked List: Representation of linked list in memory, different implementation of linked list. Circular linked list, doubly linked list, etc. Application of linked list: polynomial manipulation using linked list, etc."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Stacks",
+        "description": "Stacks as ADT, Different implementation of stack, multiple stacks. Application of Stack: Conversion of infix to postfix notation using stack, evaluation of postfix expression, Recursion. Queues: Queues as ADT, Different implementation of queue, Circular queue, Concept of Dqueue and Priority Queue, Queue simulation, Application of queues. "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Tree",
+        "description": "Definitions - Height, depth, order, degree etc. Binary Search Tree - Operations, Traversal, Search. AVL Tree, Heap, Applications and comparison of various types of tree; Introduction to forest, multi-way Tree, B tree, B+ tree, B* tree and red-black tree."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Graphs",
+        "description": "Introduction, Classification of graph: Directed and Undirected graphs, etc, Representation, Graph Traversal: Depth First Search (DFS), Breadth First Search (BFS), Graph algorithm: Minimum Spanning Tree (MST)- Kruskal, Prim’s algorithms. Dijkstra’s shortest path algorithm; Comparison between different graph algorithms. Application of graphs."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Sorting",
+        "description": "Introduction, Sort methods like: Bubble Sort, Quick sort. Selection sort, Heap sort, Insertion sort, Shell sort, Merge sort and Radix sort; comparison of various sorting techniques. Searching: Basic Search Techniques: Sequential search, Binary search, Comparison of search methods. Hashing & Indexing. Case Study: Application of various data structures in operating system, DBMS etc"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "semester": "3rd",
+    "branch": "CSE",
+    "subject_code": "CS-304",
+    "subject_name": "Digital Systems",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "number systems",
+        "description": "Review of number systems and number base conversions. Binary codes, Boolean algebra, Boolean functions, Logic gates. Simplification of Boolean functions, Karnaugh map methods, SOP-POS simplification, NAND-NOR implementation."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Combinational Logic",
+        "description": "Half adder, Half subtractor, Full adder, Full subtractor, look- ahead carry generator,BCD adder, Series and parallel addition, Multiplexer – demultiplexer, encoder- decoder, arithmetic circuits, ALU"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Sequential logic",
+        "description": "flip flops, D,T, S-R, J-K Master- Slave, racing condition, Edge & Level triggered circuits, Shift registers, Asynchronous and synchronous counters, their types and state diagrams. Semiconductor memories, Introduction to digital ICs 2716, 2732 etc. & their address decoding. Modern trends in semiconductor memories such as DRAM, FLASH RAM etc. Designing with ROM and PLA."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Introduction to A/D & D/A convertors",
+        "description": "Introduction to A/D & D/A convertors & their types, sample and hold circuits, Voltage to Frequency & Frequency to Voltage conversion. Multivibrators :Bistable, Monostable, Astable, Schmitt trigger, IC 555 & Its applications. TTL, PMOS, CMOS and NMOS logic. Interfacing between TTL to MOS."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Introduction to Digital Communication",
+        "description": "Nyquist sampling theorem, time division multiplexing, PCM, quantization error, introduction to BPSK & BFSK modulation schemes. Shannon's theorem for channel capacity."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "semester": "3rd",
+    "branch": "CSE",
+    "subject_code": "CS-305",
+    "subject_name": "Object Oriented Programming & Methodology",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction to OOPS",
+        "description": "Introduction to Object Oriented Thinking & Object Oriented Programming: Comparison with Procedural Programming, features of Object oriented paradigm– Merits and demerits of OO methodology; Object model; Elements of OOPS, IO processing."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Encapsulation and Data Abstraction",
+        "description": "Concept of Objects: State, Behavior & Identity of an object; Classes: identifying classes and candidates for Classes Attributes and Services, Access modifiers, Static members of a Class, Instances, Message passing, and Construction and destruction of Objects."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Relationships - Inheritance",
+        "description": "purpose and its types, 'is a' relationship; Association, Aggregation. Concept of interfaces and Abstract classes."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Polymorphism",
+        "description": "Introduction, Method Overriding & Overloading, static and run time Polymorphism"
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Exceptional handling",
+        "description": "Strings, Exceptional handling, Introduction of Multi-threading and Data collections. Case study like: ATM, Library management system."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "semester": "4th",
+    "branch": "CSE",
+    "subject_code": "BT-401",
+    "subject_name": "Mathematics-III",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Solution of polynomial and transcendental equations",
+        "description": "Bisection method, Newton-Raphson method and Regula-Falsi method. Finitedifferences, Relation between operators, Interpolation using Newton's forward and backwarddifference formulae. Interpolation with unequal intervals: Newton's divided difference andLagrange's formulae."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Numerical Differentiation, Numerical integration",
+        "description": "Trapezoidal rule and Simpson’s 1/3rd and 3/8 rules. Solution of Simultaneous Linear Algebraic Equations by Gauss’s Elimination, Gauss’s Jordan, Crout’s methods, Jacobi’s, Gauss-Seidal, and Relaxation method."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Ordinary differential equations",
+        "description": "Taylor’s series, Euler and modified Euler’s methods. RungeKutta method of fourth order for solving first and second order equations. Milne’s and Adam’s predicator-corrector methods. Partial differential equations: Finite difference solution two dimensional Laplace equation and Poission equation, Implicit and explicit methods for one dimensional heat equation (BenderSchmidt and Crank-Nicholson methods), Finite difference explicit method for wave equation."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Transform Calculus",
+        "description": " Laplace Transform, Properties of Laplace Transform, Laplace transform of periodic functions. Finding inverse Laplace transform by different methods, convolution theorem. Evaluation of integrals by Laplace transform, solving ODEs by Laplace Transform method, Fourier transforms."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Concept of Probability",
+        "description": "Probability Mass function, Probability Density Function, Discrete Distribution: Binomial, Poisson’s, Continuous Distribution: Normal Distribution, Exponential Distribution."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "semester": "4th",
+    "branch": "CSE",
+    "subject_code": "CS-402",
+    "subject_name": "Analysis Design of Algorithm",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Algorithms",
+        "description": "Algorithms, Designing algorithms, analyzing algorithms, asymptotic notations, heap and heap sort. Introduction to divide and conquer technique, analysis, design and comparison of various algorithms based on this technique, example binary search, merge sort, quick sort, strassen’s matrix multiplication"
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Study of Greedy strategy",
+        "description": "Study of Greedy strategy, examples of greedy method like optimal merge patterns, Huffman coding, minimum spanning trees, knapsack problem, job sequencing with deadlines, single source shortest path algorithm"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "dynamic programming",
+        "description": "Concept of dynamic programming, problems based on this approach such as 0/1 knapsack, multistage graph, reliability design, Floyd-Warshall algorithm"
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Backtracking",
+        "description": "Backtracking concept and its examples like 8 queen’s problem, Hamiltonian cycle, Graph coloring problem etc. Introduction to branch & bound method, examples of branch and bound method like traveling salesman problem etc. Meaning of lower bound theory and its use in solving algebraic problem, introduction to parallel algorithms."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Binary trees",
+        "description": "Binary search trees, height balanced trees, 2-3 trees, B-trees, basic search and traversal techniques for trees and graphs (In order, preorder, postorder, DFS, BFS), NP-completeness. "
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "semester": "4th",
+    "branch": "CSE",
+    "subject_code": "CS-403",
+    "subject_name": "Software Engineering",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "The Software Product and Software Process",
+        "description": "Software Product and Process Characteristics, Software Process Models: LinearSequential Model, Prototyping Model, RAD Model, Evolutionary Process Models likeIncremental Model, Spiral Model, Component Assembly Model, RUP and Agileprocesses. Software Process customization and improvement, CMM, Product andProcess Metrics"
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Requirement Elicitation, Analysis, and Specification",
+        "description": "Functional and Non-functional requirements, Requirement Sources and Elicitation Techniques, Analysis Modeling for Function-oriented and Object-oriented software development, Use case Modeling, System and Software Requirement Specifications, Requirement Validation, Traceability."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Software Design",
+        "description": "The Software Design Process, Design Concepts and Principles, Software Modeling andUML, Architectural Design, Architectural Views and Styles, User Interface Design, Functionoriented Design, SA/SD Component Based Design, Design Metrics."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Software Analysis and Testing",
+        "description": "Software Static and Dynamic analysis, Code inspections, Software Testing, Fundamentals, Software Test Process, Testing Levels, Test Criteria, Test Case Design, TestOracles, Test Techniques, Black-Box Testing, White-Box Unit Testing and Unit, Testing Frameworks, Integration Testing, System Testing and other Specialized, Testing, Test Plan, Test Metrics, Testing Tools. , Introduction to Object-oriented analysis, design and comparison with structured Software Engg."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Software Maintenance & Software Project Measurement",
+        "description": "Need and Types of Maintenance, Software Configuration Management (SCM), Software Change Management, Version Control, Change control and Reporting, Program Comprehension Techniques, Re-engineering, Reverse Engineering, Tool Support. Project Management Concepts, Feasilibility Analysis, Project and Process Planning, Resources Allocations, Software efforts, Schedule, and Cost estimations, Project Scheduling and Tracking, Risk Assessment and Mitigation, Software Quality Assurance(SQA). Project Plan, Project Metrics."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "semester": "4th",
+    "branch": "CSE",
+    "subject_code": "CS-404",
+    "subject_name": "Computer Org. & Architecture",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Basic Structure of ComputerStructure of Desktop Computers, CPU: General Register Organization-Memory Register, Instruction Register, Control Word, Stack Organization, Instruction Format, ALU, I/O System, bus,CPU and Memory Program Counter, Bus Structure, Register Transfer Language-Bus and Memory Transfer, addressing modes. Control Unit Organization: Basic Concept of Instruction, Instruction Types, Micro Instruction Formats, Fetch and Execution cycle, Hardwired control unit, Microprogrammed Control unit microprogram sequencer Control Memory, Sequencing and Execution of Micro Instruction. ",
+        "description": ""
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Computer Arithmetic",
+        "description": "Addition and Subtraction, Tools Compliment Representation, Signed Addition and Subtraction, Multiplication and division, Booths Algorithm, Division Operation, Floating Point Arithmetic Operation. design of Arithmetic unit "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "I/O Organization",
+        "description": "I/O Interface –PCI Bus, SCSI Bus, USB, Data Transfer: Serial, Parallel, Synchronous, Asynchronous Modes of Data Transfer, Direct Memory Access(DMA), I/O Processor. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Memory Organization",
+        "description": "Main memory-RAM, ROM, Secondary Memory –Magnetic Tape, Disk, Optical Storage, Cache Memory: Cache Structure and Design, Mapping Scheme, Replacement Algorithm, Improving Cache Performance, Virtual Memory, memory management hardware "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Multiprocessors",
+        "description": "Characteristics of Multiprocessor, Structure of Multiprocessor-Interprocessor Arbitration, Inter-Processor Communication and Synchronization. Memory in Multiprocessor System, Concept of Pipelining, Vector Processing, Array Processing, RISC And CISC, Study of Multicore Processor –Intel, AMD.  "
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "semester": "4th",
+    "branch": "CSE",
+    "subject_code": "CS-405",
+    "subject_name": "Operating Systems",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction to Operating Systems",
+        "description": "Function, Evolution, Different Types, Desirable Characteristics and features of an O/S, Operating Systems Services: Types of Services, Different ways of providing these Services – Utility Programs, System Calls. "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "File Systems",
+        "description": "File Concept, User’s and System Programmer’s view of File System, Disk Organization, Tape Organization, Different Modules of a File System, Disk Space Allocation Methods – Contiguous, Linked, Indexed. Directory Structures, File Protection, System Calls for File Management, Disk Scheduling Algorithms. "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "CPU Scheduling",
+        "description": "Process Concept, Scheduling Concepts, Types of Schedulers, Process State Diagram, Scheduling Algorithms, Algorithms Evaluation, System calls for Process Management; Multiple Processor Scheduling; Concept of Threads. Memory Management: Different Memory Management Techniques – Partitioning, Swapping, Segmentation, Paging, Paged Segmentation, Comparison of these techniques, Techniques for supporting the execution of large programs: Overlay, Dynamic Linking and Loading, Virtual Memory – Concept, Implementation by Demand Paging etc. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": " Input / Output",
+        "description": "Principles and Programming, Input/Output Problems, Asynchronous Operations, Speed gap Format conversion, I/O Interfaces, Programme Controlled I/O, Interrupt Driven I/O, Concurrent I/O. Concurrent Processes : Real and Virtual Concurrency, Mutual Exclusion, Synchronization, Inter- Process Communication, Critical Section Problem, Solution to Critical Section Problem : Semaphores – Binary and Counting Semaphores, WAIT & SIGNAL Operations and their implementation. Deadlocks: Deadlock Problems, Characterization, Prevention, Avoidance, Recovery"
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": " Introduction to Network",
+        "description": "Introduction to Network, Distributed and Multiprocessor Operating Systems. Case Studies: Unix/Linux, WINDOWS and other Contemporary Operating Systems."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-501",
+    "subject_name": "Thory of Computation",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction of Automata Theory",
+        "description": "Examples of automata machines, Finite Automata as a language acceptor and translator, Moore machines and mealy machines, composite machine, Conversion from Mealy to Moore and vice versa."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Types of Finite Automata",
+        "description": "Non Deterministic Finite Automata (NDFA), Deterministic finite automata machines, conversion of NDFA to DFA, minimization of automata machines, regular expression, Arden’s theorem. Meaning of union, intersection, concatenation and closure, 2 way DFA."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Grammars",
+        "description": "Types of grammar, context sensitive grammar, and context free grammar, regular grammar. Derivation trees, ambiguity in grammar, simplification of context free grammar, conversion of grammar to automata machine and vice versa, Chomsky hierarchy of grammar, killing null and unit productions. Chomsky normal form and Greibach normal form."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Push down Automata",
+        "description": "example of PDA, deterministic and non-deterministic PDA, conversion of PDA into context free grammar and vice versa, CFG equivalent to PDA, Petrinet model."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Turing Machine",
+        "description": "Techniques for construction. Universal Turing machine Multitape, multihead and multidimensional Turing machine, N-P complete problems. Decidability and Recursively Enumerable Languages, decidability, decidable languages, undecidable languages, Halting problem of Turing machine & the post correspondence problem. "
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-502",
+    "subject_name": "Database Management Systems",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction",
+        "description": "DBMS Concepts and architecture Introduction, Database approach v/s Traditional file accessing approach, Advantages, of database systems, Data models, Schemas and instances, Data independence, Data Base Language and interfaces, Overall Database Structure, Functions of DBA and designer, ER data model: Entitles and attributes, Entity types, Defining the E-R diagram, Concept of Generalization, Aggregation and Specialization. transforming ER diagram into the tables. Various other data models object oriented data Model, Network data model, and Relational data model, Comparison between the three types of models."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Relational Data models",
+        "description": "Domains, Tuples, Attributes, Relations, Characteristics of relations, Keys, Key attributes of relation, Relational database, Schemas, Integrity constraints. Referential integrity, Intension and Extension, Relational Query languages: SQL-DDL, DML, integrity con straints, Complex queries, various joins, indexing, triggers, assertions , Relational algebra and relational calculus, Relational algebra operations like select, Project ,Join, Division, outer union. Types of relational calculus i.e. Tuple oriented and domain oriented relational calculus and its operations."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Data Base Design",
+        "description": "Introduction to normalization, Normal forms, Functional dependency, Decomposition, Dependency preservation and lossless join, problems with null valued and dangling tuples, multivalued dependencies. Query Optimization: Introduction, steps of optimization, various algorithms to implement select, project and join operations of relational algebra, optimization methods: heuristic based, cost estimation based."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Transaction Processing Concepts",
+        "description": "Transaction System, Testing of Serializability, Serializability of schedules, conflict & view serializable schedule, recoverability, Recovery from transaction failures. Log based recovery. Checkpoints deadlock handling. Concurrency Control Techniques: Concurrency Control, locking Techniques for concurrency control, time stamping protocols for concurrency control, validation based protocol, multiple granularity. Multi version schemes, Recovery with concurrent transaction. Introduction to Distributed databases, data mining, data warehousing, Object Technology and DBMS, Comparative study of OODBMS Vs DBMS . Temporal, Deductive, Multimedia, Web & Mobile database."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Study of Relational Database Management Systems through Oracle/PL SQL",
+        "description": "Architecture, physical files, memory structures, background process. Concept of table spaces, segments, extents and block. Dedicated server, multi threaded server. Distributed database, database links, and snapshot. Data dictionary, dynamic performance view. Security, role management, privilege management, profiles, invoker defined security model. SQL queries, Data extraction from single, multiple tables equi- join, non equi-join, self -join, outer join. Usage of like, any, all, exists, in Special operators. Hierarchical quires, inline queries, flashback queries. Introduction of ANSI SQL, anonymous block, nested anonymous block, branching and looping constructs in ANSI SQL. Cursor management: nested and parameterized cursors, Oracle exception handling mechanism. Stored procedures, in, out, in out type parameters, usage of parameters in procedures. User defined functions their limitations. Triggers, mutating errors, instead of triggers."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-503(A)",
+    "subject_name": "Data Analytics",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "DESCRIPTIVE STATISTICS",
+        "description": "Probability Distributions, Inferential Statistics ,Inferential Statistics through hypothesis tests Regression & ANOVA ,Regression ANOVA(Analysis of Variance)."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "INTRODUCTION TO BIG DATA",
+        "description": "Big Data and its Importance, Four V’s of Big Data, Drivers for Big Data, Introduction to Big Data Analytics, Big Data Analytics applications. BIG DATA TECHNOLOGIES: Hadoop’s Parallel World, Data discovery, Open source technology for Big Data Analytics, cloud and Big Data, Predictive Analytics, Mobile Business Intelligence and Big Data, Crowd Sourcing Analytics, Inter- and Trans-Firewall Analytics, Information Management."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "PROCESSING BIG DATA",
+        "description": "Integrating disparate data stores, Mapping data to the programming framework, Connecting and extracting data from storage, Transforming data for processing, subdividing data in preparation for Hadoop Map Reduce."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "HADOOP MAPREDUCE",
+        "description": "Employing Hadoop Map Reduce, Creating the components of Hadoop Map Reduce jobs, Distributing data processing across server farms, Executing Hadoop Map Reduce jobs, monitoring the progress of job flows, The Building Blocks of Hadoop Map Reduce Distinguishing Hadoop daemons, Investigating the Hadoop Distributed File System Selecting appropriate execution modes: local, pseudo-distributed, fully distributed. "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "BIG DATA TOOLS AND TECHNIQUES",
+        "description": "Installing and Running Pig, Comparison with Databases, Pig Latin, User- Define Functions, Data Processing Operators, Installing and Running Hive, Hive QL, Querying Data, User-Defined Functions, Oracle Big Data."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-503(B)",
+    "subject_name": "Pattern Recognition",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction",
+        "description": "Definitions, data sets for Pattern, Application Areas and Examples of pattern recognition, Design principles of pattern recognition system, Classification and clustering, supervised Learning, unsupervised learning and adaptation, Pattern recognition approaches, Decision Boundaries, Decision region , Metric spaces, distances. "
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Classification",
+        "description": "introduction, application of classification, types of classification, decision tree, naïve bayes, logistic regression , support vector machine, random forest, K Nearest Neighbour Classifier and variants, Efficient algorithms for nearest neighbour classification, Different Approaches to Prototype Selection, Combination of Classifiers, Training set, test set, standardization and normalization."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Paradigms of Pattern Recognition",
+        "description": "Different Paradigms of Pattern Recognition, Representations of Patterns and Classes, Unsupervised Learning & Clustering: Criterion functions for clustering, Clustering Techniques: Iterative square -error partitional clustering – K means, hierarchical clustering, Cluster validation. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "introduction of feature extraction",
+        "description": "introduction of feature extraction and feature selection, types of feature extraction , Problem statement and Uses, Algorithms - Branch and bound algorithm, sequential forward / backward selection algorithms, (l,r) algorithm. "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Recent advances in Pattern Recognition",
+        "description": "Recent advances in Pattern Recognition, Structural PR, SVMs, FCM, Soft computing and Neuro-fuzzy techniques, and real-life examples, Histograms rules, Density Estimation, Nearest Neighbor Rule, Fuzzy classification. "
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-503(C)",
+    "subject_name": " Cyber Security ",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction of Cyber Crime",
+        "description": "Introduction of Cyber Crime, Challenges of cyber crime, Classifications of Cybercrimes: EMail Spoofing, Spamming, Internet Time Theft, Salami attack/Salami Technique,"
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "",
+        "description": "Web jacking, Online Frauds, Software Piracy, Computer Network Intrusions, Password Sniffing, Identity Theft, cyber terrorism, Virtual Crime, Perception of cyber criminals: hackers, insurgents and extremist group etc. Web servers were hacking, session hijacking. "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Cyber Crime and Criminal justice",
+        "description": "Concept of Cyber Crime and the IT Act, 2000, Hacking, Teenage Web Vandals, Cyber Fraud and Cheating, Defamation, Harassment and E-mail Abuse, Other IT Act Offences, Monetary Penalties, jurisdiction and Cyber Crimes, Nature of Criminality, Strategies to tackle Cyber Crime and Trends "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "The Indian Evidence Act of 1872 v. Information Technology Act, 2000",
+        "description": "Status of Electronic Records as Evidence, Proof and Management of Electronic Records; Relevancy, Admissibility and Probative Value of E-Evidence, Proving Digital Signatures, Proof of Electronic Agreements, Proving Electronic Messages. "
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "",
+        "description": "Tools and Methods in Cybercrime: Proxy Servers and Anonymizers, Password Cracking, Key loggers and Spyware, virus and worms, Trojan Horses, Backdoors, DoS and DDoS Attacks , Buffer and Overflow, Attack on Wireless Networks, Phishing : Method of Phishing, Phishing Techniques. "
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-504(A)",
+    "subject_name": "Internet and Web Technology",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Introduction",
+        "description": "Concept of WWW, Internet and WWW, HTTP Protocol : Request and Response, Web browser and Web servers, Features of Web 2.0 Web Design: Concepts of effective web design, Webdesign issues including Browser, Bandwidth and Cache, Display resolution, Look and Feel of the Web site, Page Layout and linking, User centric design, Sitemap, Planning and publishing website, Designing effective navigation."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "HTML",
+        "description": "Basics of HTML, formatting and fonts, commenting code, color, hyperlink, lists, tables, images, forms, XHTML, Meta tags, Character entities, frames and frame sets, Browser architecture and Web site structure. Overview and features of HTML5"
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Style sheets",
+        "description": "Need for CSS, introduction to CSS, basic syntax andstructure, using CSS, background images, colors and properties,manipulating texts, usingfonts, borders and boxes, margins, padding lists,positioning using CSS, CSS2, Overview and features of CSS3 JavaScript : Client side scriptingwith JavaScript, variables, functions, conditions, loops and repetition, Pop up boxes, Advance JavaScript: Javascript and objects, JavaScript own objects, the DOM and web browser environments, Manipulation using DOM, forms and validations,DHTML : Combining HTML, CSS andJavascript, Events and buttons"
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "XML",
+        "description": "Introduction to XML, uses of XML, simple XML, XML keycomponents, DTD andSchemas, Using XML with application. Transforming XML using XSL and XSLT PHP: Introduction and basic syntax of PHP, decision and looping with examples, PHP and HTML, Arrays, Functions, Browser control and detection, string, Form processing, Files, Advance Features: Cookies and Sessions, Object Oriented Programming with PHP"
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "PHP and MySQL",
+        "description": "Basic commandswith PHP examples, Connection to server, creating database, selecting a database, listing database, listing table names,creating a table, inserting data, altering tables, queries, deleting database, deleting data and tables, PHP myadmin and databasebugs "
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-504(B)",
+    "subject_name": " Object Oriented Programming",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Basics of programming",
+        "description": "Character set, Constants, Variables, keywords, identifiers literals. Instructions: Type Declaration Instruction, arithmetic Integer Long Short, Signed unsigned, storage classes, Integer and Float Conversions, type conversion in assignment, hierarchy of operations."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": "Decision control structure",
+        "description": " control instructions, if, if-else, use of logical operator, hierarchy of logical operators, arithmetic operators, relational operators, assignment operators, increment and decrement operators, conditional operators, bit wise operators, special operators, “&,*,.,>, “sizeof” Loops control structure: while loop, for loop, do – while loop, odd loop, nested loop, break, continue, case control structure, go to, exit statement."
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "Array",
+        "description": "what are arrays , array initialization, bound checking 1D array, 2D array initialization of 1D and 2D array, memory map of 1D and 2D array, Multidimensional array. Strings: what are strings, standard library string function strlen(), strcpy(), strcat(), strcmp(), 2D array of characters. "
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "Structure",
+        "description": "Why use structure, declaration of structure, accessing structure elements, how structure elements are stored, array of structure, uses of structure. Preprocessor: features of Preprocessor, macro expansion, micro with arguments, file inclusion, conditional, #if, #elif, miscellaneous directives, #include, #define, directives, #undef, #pragma directives. Union: Union definition & declaration, accessing a union member, union of structures, initialization of union member, uses of union, use of user defined data types."
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "Introduction",
+        "description": "Basic concepts of OOP: object, class, data abstraction, data encapsulation, inheritance, polymorphism, Static and dynamic binding, message passing, benefits of OOP’s, disadvantage of OOP’s, application of OOP’s, a simple program, anatomy of program, creating a source file, compiling and Linking."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "semester": "5th",
+    "branch": "CSE",
+    "subject_code": "CS-504(C)",
+    "subject_name": "Introduction to Database Management Systems",
+    "chapters": [
+      {
+        "buttonText": "Chapter 1",
+        "chapterId": 1,
+        "chapterNumber": "Unit 1",
+        "chapterName": "Database Management System Concepts",
+        "description": "Introduction, Significance of Database, Database System Applications; Data Independence; Data Modeling for a Database; Entities and their Attributes, Entities, Attributes, Relationships and Relationships Types, Advantages and Disadvantages of Database Management System, DBMS Vs RDBMS."
+      },
+      {
+        "buttonText": "Chapter 2",
+        "chapterId": 2,
+        "chapterNumber": "Unit 2",
+        "chapterName": " Database Models and Implementation",
+        "description": "Data Model and Types of Data Model, Relational Data Model, Hierarchical Model, Network Data Model, Object/Relational Model, Object-Oriented Model; Entity-Relationship Model, Modeling using E-R Diagrams, Notation used in E-R Model, Relationships and Relationship Types; Associative Database Model "
+      },
+      {
+        "buttonText": "Chapter 3",
+        "chapterId": 3,
+        "chapterNumber": "Unit 3",
+        "chapterName": "SQL",
+        "description": "Data Definition Language : Categories of SQL Commands; Data Definition Language ; Create table , Drop table and Alter Table . Primary Key , Foreign Key, Truncate Table, Index, Cursor."
+      },
+      {
+        "buttonText": "Chapter 4",
+        "chapterId": 4,
+        "chapterNumber": "Unit 4",
+        "chapterName": "SQL DML",
+        "description": "Data Manipulation Language, Insert Statement, Multiple Inserts, Delete Statement, Delete with conditions , Update statement, Update with Conditions , Merge Statement"
+      },
+      {
+        "buttonText": "Chapter 5",
+        "chapterId": 5,
+        "chapterNumber": "Unit 5",
+        "chapterName": "SELECT",
+        "description": " SQL queries, Data extraction from single, multiple tables equi-join, non equi-join, self-join, outer join. Usage of like, any, all, exists, in Special operators. Hierarchical queries, inline queries, flashback queries. Introduction of ANSI SQL, anonymous block, nested anonymous block, branching and looping constructs in ANSI SQL."
+      }
+    ]
   }
 ]

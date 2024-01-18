@@ -120,7 +120,7 @@
         {"content_id": 5, "id": "five-card-5", "title":"3rd Sem", "class": "border-none cse-card", "subject_id": "CS-305", "subject_name": "Object Oriented Programming and Methodology" }
       ],
       "subjects2": [
-        {"content_id": 6, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "BT-301", "subject_name": "Mathematics-III" },
+        {"content_id": 6, "id": "five-card-1", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "BT-401", "subject_name": "Mathematics-III" },
         {"content_id": 7, "id": "five-card-2", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-402", "subject_name": "Analysis Design of Algorithm" },
         {"content_id": 8, "id": "five-card-3", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-403", "subject_name": "Software Engineering" },
         {"content_id": 9, "id": "five-card-4", "title":"4th Sem", "class": "border-none cse-card", "subject_id": "CS-404", "subject_name": "Computer Org. & Architecture" },
