@@ -13,6 +13,7 @@
     "firebase": "^10.7.1",
     "framer-motion": "^10.17.9",
     "next": "14.0.4",
+    "next-runtime-dotenv": "^1.5.1",
     "react": "^18",
     "react-dom": "^18"
   },
