@@ -1,4 +1,5 @@
 'use client';
+import Head from "next/head";
 import { useSearchParams } from "next/navigation";
 import { useRouter } from "next/navigation";
 import subjectsData from '../json/data.json';
@@ -23,6 +24,9 @@ const SubjectBox = () => {
 
     return (
         <div id='main-card'>
+            <Head>
+                <meta name="robots" content="noindex"></meta>
+            </Head>
             <div id='semi-main-card-2'>
                 <h1 id='title1'>{filteredData.sem[0].first}</h1>
                 {filteredData.subjects1.map((item) => (
