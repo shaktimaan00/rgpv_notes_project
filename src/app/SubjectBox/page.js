@@ -25,7 +25,7 @@ const SubjectBox = () => {
     return (
         <div id='main-card'>
             <Head>
-                <meta name="robots" content="index"></meta>
+                <meta name="robots" content="index"/>
             </Head>
             <div id='semi-main-card-2'>
                 <h1 id='title1'>{filteredData.sem[0].first}</h1>
