@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className='dark'>
       <head>
       <meta name="google-site-verification" content="wMdJb0mvxm0BP9-Eieo7JNvLZpJHzkJKWrHY-uiNWpM" />
-      <meta name="robots" content="index"/>
+      <meta name="robots" content="all" />
       </head>
       <body className={inter.className}>
         <Providers>
