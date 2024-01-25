@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://rgpv-notes-project.vercel.app/</loc>
+  <loc>https://rgpv-notes-project.vercel.app/SubjectBox?year=1&branch=CSE</loc>
   <lastmod>2024-01-18T13:31:42+00:00</lastmod>
 </url>
 </urlset>
