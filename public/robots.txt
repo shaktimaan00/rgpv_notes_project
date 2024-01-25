@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: 
 
-Sitemap: https://rgpv-notes-project.vercek.app/sitemap.xml
+Sitemap: https://rgpv-notes-project.vercel.app/sitemap.xml
