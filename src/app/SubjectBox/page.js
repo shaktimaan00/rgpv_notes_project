@@ -10,6 +10,10 @@ export async function generateMetadata({searchParams}) {
 
     return{
         title: `${years[Number(year-1)]} Year ${branch} Subjects`,
+        robots: {
+            index: true,
+            follow: true,
+        },
         description: `Subjects for ${years[Number(year-1)]} Year ${branch} branch students of RGPV University`
     }
 
