@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className='dark'>
       <head>
-      <meta name="google-site-verification" content="wMdJb0mvxm0BP9-Eieo7JNvLZpJHzkJKWrHY-uiNWpM" />
+      <meta name="google-site-verification" content="KwNwTI_eXS7WUtYrJdF6qCUMT_lRdu2cbFCGsOTyOww" />
       <meta name="robots" content="all" />
       <link rel="sitemap" href="/sitemap-index.xml"></link>
       </head>
