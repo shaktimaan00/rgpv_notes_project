@@ -2,6 +2,7 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import {Providers} from "./providers";
 import Navbar from "./components/Navbar";
+import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,11 +20,13 @@ export default function RootLayout({ children }) {
       <head>
       <meta name="google-site-verification" content="wMdJb0mvxm0BP9-Eieo7JNvLZpJHzkJKWrHY-uiNWpM" />
       <meta name="robots" content="all" />
+      <link rel="sitemap" href="/sitemap-index.xml"></link>
       </head>
       <body className={inter.className}>
         <Providers>
           <Navbar />
           {children}
+          <Analytics/>
         </Providers>
       </body>
     </html>
