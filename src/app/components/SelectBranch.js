@@ -45,7 +45,7 @@ const SelectBranch = ({ onSelectBranch }) => {
 
     return (
         <div>
-            <main className="container">
+            <main className="branch-container">
             <h1 className='semester-title'>Select your Branch</h1>
             <div className='semester-main-container'>
                 {branches.map((branch) => (
@@ -56,9 +56,9 @@ const SelectBranch = ({ onSelectBranch }) => {
                     onClick={()=>handleBranchClick(branch.branch)}
                     >
                         <p>{branch.year_letter}</p>
-                        {/* <Image src={branch.src} className='semester-image' alt='doge' width={40} height={40} /> */}
                     </Button>       
                 ))}
+                
             </div>
             </main>
         </div>

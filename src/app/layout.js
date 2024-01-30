@@ -3,6 +3,7 @@ import './globals.css'
 import {Providers} from "./providers";
 import Navbar from "./components/Navbar";
 import { Analytics } from '@vercel/analytics/react';
+import Footer from './components/Footer';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -28,9 +29,11 @@ export default function RootLayout({ children }) {
         <Providers>
           <Navbar />
           {children}
+          <Footer />
           <Analytics/>
         </Providers>
       </body>
     </html>
+    // className='dark'   //add this to head tag to enable dark mode
   )
 }

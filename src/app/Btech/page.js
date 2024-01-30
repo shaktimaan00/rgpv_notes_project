@@ -20,7 +20,7 @@ export async function generateMetadata({searchParams}) {
 }
 
 
-const SubjectList = () => {
+const Btech = () => {
   return (
     <>
         <SubjectBox />
@@ -28,4 +28,4 @@ const SubjectList = () => {
   )
 }
 
-export default SubjectList
+export default Btech;

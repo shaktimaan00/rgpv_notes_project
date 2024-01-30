@@ -1,8 +1,11 @@
 'use client'
 // components/SelectYear.js
 import React, { useState } from 'react';
-import { Button, Image } from "@nextui-org/react";
+import { Button } from "@nextui-org/react";
 import "./style.css"
+import DogeCivil from "./images/doge-civil.png"
+import Logo from "./images/logo.png"
+import Image from 'next/image'
 
 const SelectYear = ({ onSelectYear }) => {
     const years = [
@@ -41,7 +44,7 @@ const SelectYear = ({ onSelectYear }) => {
     };
 
     return (
-        <main className="container">
+        <main className="semester-container">
             <h1 className='semester-title'>Select your year</h1>
             <div className='semester-main-container'>
                 {years.map((year) => (
@@ -51,6 +54,7 @@ const SelectYear = ({ onSelectYear }) => {
                     key={year.year} 
                     onClick={() => handleYearClick(year.year)}>
                         <p>{year.year_letter}</p>
+                        {/* <Image src={DogeCivil} width={30} height={30} className='semester-image' alt='doge image'/> */}
                     </Button>
                 ))}
             </div>

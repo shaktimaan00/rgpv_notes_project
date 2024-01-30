@@ -1,5 +1,4 @@
-User-Agent: *
-Allow: /
+User-agent: *
 Disallow: 
-
-Sitemap: https://rgpv-notes-project.vercel.app/sitemap.xml
+Disallow: /cgi-bin/
+Sitemap: https://www.rgpv-notess.tech/sitemap-index.xml
