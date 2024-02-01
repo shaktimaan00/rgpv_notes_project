@@ -4,6 +4,7 @@ import {Providers} from "./providers";
 import Navbar from "./components/Navbar";
 import { Analytics } from '@vercel/analytics/react';
 import Footer from './components/Footer';
+import GoogleAnalytics from './components/GoogleAnalytics';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -31,6 +32,10 @@ export default function RootLayout({ children }) {
           {children}
           <Footer />
           <Analytics/>
+          {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS ? (
+            <GoogleAnalytics ga_id= 
+            {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS} />
+          ) : null}
         </Providers>
       </body>
     </html>

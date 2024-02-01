@@ -27,7 +27,6 @@ const RetrieveData = ({ subjectId }) => {
     };
 
     handleDatabase();
-    // console.log(data)
   }, []);
 
   useEffect(() => {

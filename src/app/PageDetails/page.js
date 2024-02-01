@@ -1,6 +1,22 @@
 import "../components/style.css";
 import RetrieveData from "../components/RetriveData";
 
+export async function generateMetadata({searchParams}) {
+  const SubjectId = searchParams.subjectId;
+  const branch = searchParams.branch;
+
+  return{
+      title: `${SubjectId} Branch Subject`,
+      robots: {
+          index: true,
+          follow: true,
+      },
+      description: `RGPV Notes for ${SubjectId} & ${branch} Branch`,
+  }
+
+}
+
+
 export default async function Page({ searchParams }) {
   const SubjectId = searchParams.subjectId;
 

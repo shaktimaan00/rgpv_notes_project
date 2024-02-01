@@ -12,8 +12,6 @@ const SearchComponent = () => {
   const [searchPerformed, setSearchPerformed] = useState(false);
   const router = useRouter(); // Add the useRouter hook
 
-  console.log(query);
-
   const handleKeyPress = (event) => {
     if (event.key === 'Enter') {
       handleSearch();
